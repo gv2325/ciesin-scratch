@@ -1,0 +1,23 @@
+name: egis-rest
+channels:
+  - conda-forge
+dependencies:
+  - fastapi
+  - uvicorn
+  - sqlalchemy
+  - requests
+  - urllib3
+  - mangum
+  - brotli-asgi
+# Testing
+
+  - pytest
+  - pytest-cov
+  - pytest-json-report
+  - pytest-metadata
+  - pytest-xdist
+  - coverage
+  - coverage-lcov
+  - selenium
+  - pre-commit
+  - nbstripout

@@ -1,0 +1,10 @@
+brotli-asgi == 1.4.0
+fastapi == 0.103.0
+mangum == 0.17.0
+psycopg2-binary
+pydantic-settings == 2.1.0
+pytest == 7.4.3
+pytest-json-report == 1.5.0
+requests == 2.31.0
+SQLAlchemy == 2.0.20
+uvicorn ==  0.23.2
