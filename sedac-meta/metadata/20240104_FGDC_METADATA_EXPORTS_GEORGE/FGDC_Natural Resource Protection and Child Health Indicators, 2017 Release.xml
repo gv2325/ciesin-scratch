@@ -1,0 +1,1576 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+<smusrdef>
+<smusrtxt>
+<smusrlbl>entry-id</smusrlbl>
+<smusrval>CIESIN_SEDAC_NRMI_NRPCHI17</smusrval>
+<smusrhyp>0</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>collection-title</smusrlbl>
+<smusrval>Natural Resource Management Index</smusrval>
+<smusrhyp>0</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>collection-huid</smusrlbl>
+<smusrval>nrmi</smusrval>
+<smusrhyp>0</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>data-set-title</smusrlbl>
+<smusrval>Natural Resource Protection and Child Health Indicators</smusrval>
+<smusrhyp>0</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>data-set-huid</smusrlbl>
+<smusrval>nrmi-natural-resource-protection-child-health-indicators-2017</smusrval>
+<smusrhyp>0</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>mission-area-title</smusrlbl>
+<smusrval>Environmental Sustainability</smusrval>
+<smusrhyp>0</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>mission-area</smusrlbl>
+<smusrval>es</smusrval>
+<smusrhyp>0</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>theme-conservation</smusrlbl>
+<smusrval>1</smusrval>
+<smusrhyp>0</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>theme-sustainability</smusrlbl>
+<smusrval>1</smusrval>
+<smusrhyp>0</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>gis-compatible</smusrlbl>
+<smusrval>no</smusrval>
+<smusrhyp>0</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>collection-abbreviation</smusrlbl>
+<smusrval>NRMI</smusrval>
+<smusrhyp>0</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>AU01</smusrlbl>
+<smusrval>Center for International Earth Science Information Network - CIESIN - Columbia University</smusrval>
+<smusrhyp>0</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>DOI</smusrlbl>
+<smusrval>doi:10.7927/H4SQ8XGT</smusrval>
+<smusrhyp>0</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>DOI URL</smusrlbl>
+<smusrval>https://doi.org/10.7927/H4SQ8XGT</smusrval>
+<smusrhyp>-1</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>documentation-page-url</smusrlbl>
+<smusrval>http://sedac.ciesin.columbia.edu/data/set/nrmi-natural-resource-protection-child-health-indicators-2017/docs</smusrval>
+<smusrhyp>-1</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>product-level-id</smusrlbl>
+<smusrval>2</smusrval>
+<smusrhyp>0</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>data-set-documentation-doi</smusrlbl>
+<smusrval>10.7927/h4mw2f7s</smusrval>
+<smusrhyp>0</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>platform-type_01</smusrlbl>
+<smusrval>Models/Analyses</smusrval>
+<smusrhyp>0</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>platform-shortname_01</smusrlbl>
+<smusrval>MODELS</smusrval>
+<smusrhyp>0</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>instrument-shortname_01</smusrlbl>
+<smusrval>Computer</smusrval>
+<smusrhyp>0</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>instrument-longname_01</smusrlbl>
+<smusrval>Computer</smusrval>
+<smusrhyp>0</smusrhyp>
+</smusrtxt>
+</smusrdef>
+<idinfo>
+<smtype>1</smtype>
+<citation>
+<citeinfo>
+<origin>Center for International Earth Science Information Network - CIESIN - Columbia University</origin>
+<pubdate>20170817</pubdate>
+<pubtime></pubtime>
+<title>Natural Resource Protection and Child Health Indicators, 2017 Release</title>
+<edition>2017.00</edition>
+<geoform>tabular, map service</geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace>Palisades, NY</pubplace>
+<publish>NASA Socioeconomic Data and Applications Center (SEDAC)</publish>
+</pubinfo>
+<othercit></othercit>
+<onlink>https://doi.org/10.7927/H4SQ8XGT</onlink>
+<smcilnkh>true</smcilnkh>
+<lworkcit>
+<citeinfo>
+<origin></origin>
+<pubdate></pubdate>
+<pubtime></pubtime>
+<title></title>
+<edition></edition>
+<geoform></geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace></pubplace>
+<publish></publish>
+</pubinfo>
+<othercit></othercit>
+<onlink></onlink>
+<lworkcit></lworkcit>
+</citeinfo>
+</lworkcit>
+</citeinfo>
+</citation>
+<descript>
+<abstract>The Natural Resource Protection and Child Health Indicators, 2017 Release, is produced in support of the U.S. Millennium Challenge Corporation (MCC) as selection criteria for funding eligibility. The Natural Resource Protection Indicator (NRPI) and Child Health Indicator (CHI) are based on proximity-to-target scores ranging from 0 to 100 (at target). The NRPI covers 234 countries and is calculated based on the weighted average percentage of biomes under protected status. The CHI is a composite index for 199 countries derived from the average of three proximity-to-target scores for access to at least basic water and sanitation, along with child mortality. The 2017 release includes a consistent time series of NRPI scores for 2013-2017 and CHI scores for 2010 to 2017.</abstract>
+<purpose>To assist in the country selection process for the Millennium Challenge Corporation (MCC) by providing indicators of natural resource protection and child health that complement the governance, social, and economic indicators used by MCC as country selection criteria.</purpose>
+<supplinf></supplinf>
+</descript>
+<timeperd>
+<timeinfo>
+<rngdates>
+<begdate>20100101</begdate>
+<begtime></begtime>
+<enddate>20161231</enddate>
+<endtime></endtime>
+</rngdates>
+</timeinfo>
+<current>publication date</current>
+</timeperd>
+<status>
+<progress>Complete</progress>
+<update>As needed</update>
+</status>
+<spdom>
+<descgeog></descgeog>
+<bounding>
+<westbc>-180.000000</westbc>
+<eastbc>180.000000</eastbc>
+<northbc>90.000000</northbc>
+<southbc>-55.000000</southbc>
+<boundalt>
+<altmin></altmin>
+<almax></almax>
+<altunits></altunits>
+</boundalt>
+</bounding>
+<dsgpoly>
+<dsgpolyo>
+<gring></gring>
+</dsgpolyo>
+<dsgpolyx>
+<gring></gring>
+</dsgpolyx>
+</dsgpoly>
+</spdom>
+<keywords>
+<theme>
+<themekt>SEDAC Theme</themekt>
+<themekey>Conservation</themekey>
+<themekey>Sustainability</themekey>
+</theme>
+<theme>
+<themekt>Data Granularity</themekt>
+<themekey>Country</themekey>
+</theme>
+<theme>
+<themekt>ISO Topic</themekt>
+<themekey>Environment</themekey>
+</theme>
+<theme>
+<themekt>GCMD Science Keywords, Version 8.6</themekt>
+<themekey>EARTH SCIENCE &gt; HUMAN DIMENSIONS &gt; ENVIRONMENTAL IMPACTS &gt; CONSERVATION</themekey>
+<themekey>EARTH SCIENCE &gt; HUMAN DIMENSIONS &gt; SUSTAINABILITY &gt; ENVIRONMENTAL SUSTAINABILITY</themekey>
+<themekey>EARTH SCIENCE &gt; HUMAN DIMENSIONS &gt; PUBLIC HEALTH</themekey>
+</theme>
+<place>
+<placekt>CIESIN Location Terms, Version 3.1</placekt>
+<placekey>Australia</placekey>
+<placekey>Afghanistan</placekey>
+<placekey>Albania</placekey>
+<placekey>Algeria</placekey>
+<placekey>American Samoa</placekey>
+<placekey>Andorra</placekey>
+<placekey>Angola</placekey>
+<placekey>Anguilla</placekey>
+<placekey>Antigua and Barbuda</placekey>
+<placekey>Argentina</placekey>
+<placekey>Armenia</placekey>
+<placekey>Aruba</placekey>
+<placekey>Austria</placekey>
+<placekey>Azerbaijan</placekey>
+<placekey>Bahamas</placekey>
+<placekey>Bahrain</placekey>
+<placekey>Bangladesh</placekey>
+<placekey>Barbados</placekey>
+<placekey>Belarus</placekey>
+<placekey>Belgium</placekey>
+<placekey>Belize</placekey>
+<placekey>Benin</placekey>
+<placekey>Bermuda</placekey>
+<placekey>Bhutan</placekey>
+<placekey>Bolivia</placekey>
+<placekey>Bosnia and Herzegovina</placekey>
+<placekey>Botswana</placekey>
+<placekey>Brazil</placekey>
+<placekey>British Virgin Islands</placekey>
+<placekey>Brunei</placekey>
+<placekey>Bulgaria</placekey>
+<placekey>Burkina Faso</placekey>
+<placekey>Burundi</placekey>
+<placekey>Cambodia</placekey>
+<placekey>Cameroon</placekey>
+<placekey>Canada</placekey>
+<placekey>Cape Verde</placekey>
+<placekey>Cayman Islands</placekey>
+<placekey>Central African Republic</placekey>
+<placekey>Chad</placekey>
+<placekey>Chile</placekey>
+<placekey>China</placekey>
+<placekey>Colombia</placekey>
+<placekey>Comoros</placekey>
+<placekey>Congo, Democratic</placekey>
+<placekey>Cook Islands</placekey>
+<placekey>Costa Rica</placekey>
+<placekey>Cote D&apos;Ivoire</placekey>
+<placekey>Croatia</placekey>
+<placekey>Cuba</placekey>
+<placekey>Curacao</placekey>
+<placekey>Cyprus</placekey>
+<placekey>Czech Republic</placekey>
+<placekey>Denmark</placekey>
+<placekey>Dominica</placekey>
+<placekey>Dominican Republic</placekey>
+<placekey>Timor</placekey>
+<placekey>Ecuador</placekey>
+<placekey>Egypt</placekey>
+<placekey>El Salvador</placekey>
+<placekey>Equatorial Guinea</placekey>
+<placekey>Eritrea</placekey>
+<placekey>Estonia</placekey>
+<placekey>Ethiopia</placekey>
+<placekey>Falkland Islands</placekey>
+<placekey>Faeroe Islands</placekey>
+<placekey>Micronesia</placekey>
+<placekey>Fiji</placekey>
+<placekey>Finland</placekey>
+<placekey>France</placekey>
+<placekey>French Polynesia</placekey>
+<placekey>Gabon</placekey>
+<placekey>Gambia</placekey>
+<placekey>Georgia</placekey>
+<placekey>Germany</placekey>
+<placekey>Ghana</placekey>
+<placekey>Gibraltar</placekey>
+<placekey>Greece</placekey>
+<placekey>Greenland</placekey>
+<placekey>Grenada</placekey>
+<placekey>Guadeloupe</placekey>
+<placekey>Guam</placekey>
+<placekey>Guatemala</placekey>
+<placekey>Guernsey</placekey>
+<placekey>Guinea</placekey>
+<placekey>Guinea-Bissau</placekey>
+<placekey>Guyana</placekey>
+<placekey>Haiti</placekey>
+<placekey>Honduras</placekey>
+<placekey>Hong Kong</placekey>
+<placekey>Hungary</placekey>
+<placekey>Iceland</placekey>
+<placekey>India</placekey>
+<placekey>Indonesia</placekey>
+<placekey>Iran</placekey>
+<placekey>Iraq</placekey>
+<placekey>Ireland</placekey>
+<placekey>Isle of Man</placekey>
+<placekey>Israel</placekey>
+<placekey>Italy</placekey>
+<placekey>Jamaica</placekey>
+<placekey>Japan</placekey>
+<placekey>Jersey</placekey>
+<placekey>Jordan</placekey>
+<placekey>Kazakhstan</placekey>
+<placekey>Kenya</placekey>
+<placekey>Kiribati</placekey>
+<placekey>South Korea</placekey>
+<placekey>North Korea</placekey>
+<placekey>Kosovo</placekey>
+<placekey>Kuwait</placekey>
+<placekey>Kyrgyzstan</placekey>
+<placekey>Laos</placekey>
+<placekey>Latvia</placekey>
+<placekey>Lebanon</placekey>
+<placekey>Lesotho</placekey>
+<placekey>Liberia</placekey>
+<placekey>Libya</placekey>
+<placekey>Liechtenstein</placekey>
+<placekey>Lithuania</placekey>
+<placekey>Luxembourg</placekey>
+<placekey>Madagascar</placekey>
+<placekey>Malawi</placekey>
+<placekey>Malaysia</placekey>
+<placekey>Maldives</placekey>
+<placekey>Mali</placekey>
+<placekey>Malta</placekey>
+<placekey>Marshall Islands</placekey>
+<placekey>Martinique</placekey>
+<placekey>Mauritania</placekey>
+<placekey>Mauritius</placekey>
+<placekey>Mayotte</placekey>
+<placekey>Mexico</placekey>
+<placekey>Monaco</placekey>
+<placekey>Mongolia</placekey>
+<placekey>Montenegro</placekey>
+<placekey>Montserrat</placekey>
+<placekey>Morocco</placekey>
+<placekey>Mozambique</placekey>
+<placekey>Myanmar</placekey>
+<placekey>Namibia</placekey>
+<placekey>Nauru</placekey>
+<placekey>Nepal</placekey>
+<placekey>Netherlands</placekey>
+<placekey>New Caledonia</placekey>
+<placekey>New Zealand</placekey>
+<placekey>Nicaragua</placekey>
+<placekey>Niger</placekey>
+<placekey>Nigeria</placekey>
+<placekey>Niue</placekey>
+<placekey>Norfolk Island</placekey>
+<placekey>Northern Mariana Islands</placekey>
+<placekey>Norway</placekey>
+<placekey>Oman</placekey>
+<placekey>Pakistan</placekey>
+<placekey>Palau</placekey>
+<placekey>Palestine</placekey>
+<placekey>Panama</placekey>
+<placekey>Papua New Guinea</placekey>
+<placekey>Paraguay</placekey>
+<placekey>Peru</placekey>
+<placekey>Philippines</placekey>
+<placekey>Pitcairn Islands</placekey>
+<placekey>Poland</placekey>
+<placekey>Portugal</placekey>
+<placekey>Puerto Rico</placekey>
+<placekey>Qatar</placekey>
+<placekey>Moldova</placekey>
+<placekey>Reunion</placekey>
+<placekey>Romania</placekey>
+<placekey>Russia</placekey>
+<placekey>Rwanda</placekey>
+<placekey>St Helena</placekey>
+<placekey>St Kitts and Nevis</placekey>
+<placekey>St Lucia</placekey>
+<placekey>St Pierre and Miquelon</placekey>
+<placekey>St Barthelemy</placekey>
+<placekey>St  Martin</placekey>
+<placekey>Samoa</placekey>
+<placekey>San Marino</placekey>
+<placekey>Sao Tome and Principe</placekey>
+<placekey>Saudi Arabia</placekey>
+<placekey>Senegal</placekey>
+<placekey>Serbia</placekey>
+<placekey>Seychelles</placekey>
+<placekey>Sierra Leone</placekey>
+<placekey>Singapore</placekey>
+<placekey>St Maarten</placekey>
+<placekey>Slovakia</placekey>
+<placekey>Slovenia</placekey>
+<placekey>Solomon Islands</placekey>
+<placekey>Somalia</placekey>
+<placekey>South Africa</placekey>
+<placekey>South Sudan</placekey>
+<placekey>Spain</placekey>
+<placekey>Sri Lanka</placekey>
+<placekey>St Vincent and The Grenadines</placekey>
+<placekey>Sudan</placekey>
+<placekey>Suriname</placekey>
+<placekey>Swaziland</placekey>
+<placekey>Taiwan</placekey>
+<placekey>Tajikistan</placekey>
+<placekey>Thailand</placekey>
+<placekey>Macedonia</placekey>
+<placekey>Togo</placekey>
+<placekey>Tokelau</placekey>
+<placekey>Tonga</placekey>
+<placekey>Trinidad and Tobago</placekey>
+<placekey>Tunisia</placekey>
+<placekey>Turkey</placekey>
+<placekey>Turkmenistan</placekey>
+<placekey>Tuvalu</placekey>
+<placekey>Uganda</placekey>
+<placekey>Ukraine</placekey>
+<placekey>United Arab Emirates</placekey>
+<placekey>United Kingdom</placekey>
+<placekey>Tanzania</placekey>
+<placekey>United States of America</placekey>
+<placekey>US Virgin Islands</placekey>
+<placekey>Uruguay</placekey>
+<placekey>Uzbekistan</placekey>
+<placekey>Vanuatu</placekey>
+<placekey>Venezuela</placekey>
+<placekey>Vietnam</placekey>
+<placekey>Wallis and Futuna Islands</placekey>
+<placekey>Western Sahara</placekey>
+<placekey>Yemen</placekey>
+<placekey>Zambia</placekey>
+<placekey>Zimbabwe</placekey>
+<placekey>Global</placekey>
+<placekey>Congo</placekey>
+<placekey>Djibouti</placekey>
+<placekey>Netherlands  Antilles</placekey>
+<placekey>South Africa</placekey>
+<placekey>Switzerland</placekey>
+<placekey>Syrian Arab Republic</placekey>
+</place>
+<stratum>
+<stratkt></stratkt>
+<stratkey></stratkey>
+</stratum>
+<temporal>
+<tempkt></tempkt>
+<tempkey></tempkey>
+</temporal>
+</keywords>
+<taxonomy>
+<keywtax>
+<taxonkt></taxonkt>
+<taxonkey></taxonkey>
+</keywtax>
+<taxonsys>
+<classsys>
+<classcit>
+<citeinfo>
+<origin></origin>
+<pubdate></pubdate>
+<pubtime></pubtime>
+<title></title>
+<edition></edition>
+<geoform></geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace></pubplace>
+<publish></publish>
+</pubinfo>
+<othercit></othercit>
+<onlink></onlink>
+<lworkcit></lworkcit>
+</citeinfo>
+</classcit>
+<classmod></classmod>
+</classsys>
+<idref>
+<citeinfo>
+<origin></origin>
+<pubdate></pubdate>
+<pubtime></pubtime>
+<title></title>
+<edition></edition>
+<geoform></geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace></pubplace>
+<publish></publish>
+</pubinfo>
+<othercit></othercit>
+<onlink></onlink>
+<lworkcit></lworkcit>
+</citeinfo>
+</idref>
+<ider>
+<cntinfo>
+<cntperp>
+<cntper></cntper>
+<cntorg></cntorg>
+</cntperp>
+<cntpos></cntpos>
+<cntaddr>
+<addrtype></addrtype>
+<address></address>
+<city></city>
+<state></state>
+<postal></postal>
+<country></country>
+</cntaddr>
+<cntvoice></cntvoice>
+<cnttdd></cnttdd>
+<cntfax></cntfax>
+<cntemail></cntemail>
+<hours></hours>
+<cntinst></cntinst>
+</cntinfo>
+</ider>
+<taxonpro></taxonpro>
+<taxoncom></taxoncom>
+<vouchers>
+<specimen></specimen>
+<reposit>
+<cntinfo>
+<cntperp>
+<cntper></cntper>
+<cntorg></cntorg>
+</cntperp>
+<cntpos></cntpos>
+<cntaddr>
+<addrtype></addrtype>
+<address></address>
+<city></city>
+<state></state>
+<postal></postal>
+<country></country>
+</cntaddr>
+<cntvoice></cntvoice>
+<cnttdd></cnttdd>
+<cntfax></cntfax>
+<cntemail></cntemail>
+<hours></hours>
+<cntinst></cntinst>
+</cntinfo>
+</reposit>
+</vouchers>
+</taxonsys>
+<taxongen></taxongen>
+<taxoncl>
+<taxonrn></taxonrn>
+<taxonrv></taxonrv>
+<common></common>
+</taxoncl>
+</taxonomy>
+<accconst>None</accconst>
+<useconst>This work is licensed under the Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0). Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.</useconst>
+<ptcontac>
+<cntinfo>
+<cntorgp>
+<cntorg>NASA Socioeconomic Data and Applications Center (SEDAC)</cntorg>
+<cntper></cntper>
+</cntorgp>
+<cntpos></cntpos>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>CIESIN, Columbia University, 61 Route 9W, P.O. Box 1000</address>
+<city>Palisades</city>
+<state>New York</state>
+<postal>10964</postal>
+<country>United States</country>
+</cntaddr>
+<cntvoice>+1 845-365-8920</cntvoice>
+<cnttdd></cnttdd>
+<cntfax>+1 845-365-8922</cntfax>
+<cntemail>ciesin.info@ciesin.columbia.edu</cntemail>
+<smcoemhy>true</smcoemhy>
+<hours></hours>
+<cntinst></cntinst>
+</cntinfo>
+</ptcontac>
+<browse>
+<browsen>https://sedac.ciesin.columbia.edu/downloads/maps/nrmi/nrmi-natural-resource-protection-child-health-indicators-2017/sedac-logo.jpg</browsen>
+<browsed></browsed>
+<browset>JPEG</browset>
+<smidbrgh>-1</smidbrgh>
+</browse>
+<datacred></datacred>
+<secinfo>
+<secsys></secsys>
+<secclass></secclass>
+<sechandl></sechandl>
+</secinfo>
+<native></native>
+<crossref>
+<citeinfo>
+<origin>Center for International Earth Science Information Network - CIESIN - Columbia University</origin>
+<pubdate>20101231</pubdate>
+<pubtime></pubtime>
+<title>Natural Resource Management Index (NRMI), 2010 Release</title>
+<edition>2010.00</edition>
+<geoform>tabular</geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace>Palisades, NY</pubplace>
+<publish>NASA Socioeconomic Data and Applications Center (SEDAC)</publish>
+</pubinfo>
+<othercit></othercit>
+<onlink>https://doi.org/10.7927/H49G5JRZ</onlink>
+<smcilnkh>true</smcilnkh>
+<lworkcit>
+<citeinfo>
+<origin></origin>
+<pubdate></pubdate>
+<pubtime></pubtime>
+<title></title>
+<edition></edition>
+<geoform></geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace></pubplace>
+<publish></publish>
+</pubinfo>
+<othercit></othercit>
+<onlink></onlink>
+<lworkcit></lworkcit>
+</citeinfo>
+</lworkcit>
+</citeinfo>
+</crossref>
+<crossref>
+<citeinfo>
+<origin>Center for International Earth Science Information Network - CIESIN - Columbia University</origin>
+<pubdate>20111231</pubdate>
+<pubtime></pubtime>
+<title>Natural Resource Management Index (NRMI), 2011 Release</title>
+<edition>2011.00</edition>
+<geoform>tabular</geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace>Palisades, NY</pubplace>
+<publish>NASA Socioeconomic Data and Applications Center (SEDAC)</publish>
+</pubinfo>
+<othercit></othercit>
+<onlink>https://doi.org/10.7927/H45Q4T1N</onlink>
+<smcilnkh>true</smcilnkh>
+<lworkcit>
+<citeinfo>
+<origin></origin>
+<pubdate></pubdate>
+<pubtime></pubtime>
+<title></title>
+<edition></edition>
+<geoform></geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace></pubplace>
+<publish></publish>
+</pubinfo>
+<othercit></othercit>
+<onlink></onlink>
+<lworkcit></lworkcit>
+</citeinfo>
+</lworkcit>
+</citeinfo>
+</crossref>
+<crossref>
+<citeinfo>
+<origin>Center for International Earth Science Information Network - CIESIN - Columbia University</origin>
+<pubdate>20121231</pubdate>
+<pubtime></pubtime>
+<title>Natural Resource Protection and Child Health Indicators, 2012 Release</title>
+<edition>2012.00</edition>
+<geoform>tabular</geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace>Palisades, NY</pubplace>
+<publish>NASA Socioeconomic Data and Applications Center (SEDAC)</publish>
+</pubinfo>
+<othercit></othercit>
+<onlink>https://doi.org/10.7927/H41Z4299</onlink>
+<smcilnkh>true</smcilnkh>
+<lworkcit>
+<citeinfo>
+<origin></origin>
+<pubdate></pubdate>
+<pubtime></pubtime>
+<title></title>
+<edition></edition>
+<geoform></geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace></pubplace>
+<publish></publish>
+</pubinfo>
+<othercit></othercit>
+<onlink></onlink>
+<lworkcit></lworkcit>
+</citeinfo>
+</lworkcit>
+</citeinfo>
+</crossref>
+<crossref>
+<citeinfo>
+<origin>Center for International Earth Science Information Network - CIESIN - Columbia University</origin>
+<pubdate>20131231</pubdate>
+<pubtime></pubtime>
+<title>Natural Resource Protection and Child Health Indicators, 2013 Release</title>
+<edition>2013.00</edition>
+<geoform>tabular</geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace>Palisades, NY</pubplace>
+<publish>NASA Socioeconomic Data and Applications Center (SEDAC)</publish>
+</pubinfo>
+<othercit></othercit>
+<onlink>https://doi.org/10.7927/H4NZ85MP</onlink>
+<smcilnkh>true</smcilnkh>
+<lworkcit>
+<citeinfo>
+<origin></origin>
+<pubdate></pubdate>
+<pubtime></pubtime>
+<title></title>
+<edition></edition>
+<geoform></geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace></pubplace>
+<publish></publish>
+</pubinfo>
+<othercit></othercit>
+<onlink></onlink>
+<lworkcit></lworkcit>
+</citeinfo>
+</lworkcit>
+</citeinfo>
+</crossref>
+<crossref>
+<citeinfo>
+<origin>Center for International Earth Science Information Network - CIESIN - Columbia University</origin>
+<pubdate>20141231</pubdate>
+<pubtime></pubtime>
+<title>Natural Resource Protection and Child Health Indicators, 2014 Release</title>
+<edition>2014.00</edition>
+<geoform>tabular</geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace>Palisades, NY</pubplace>
+<publish>NASA Socioeconomic Data and Applications Center (SEDAC)</publish>
+</pubinfo>
+<othercit></othercit>
+<onlink>https://doi.org/10.7927/H46M34RP</onlink>
+<smcilnkh>true</smcilnkh>
+<lworkcit>
+<citeinfo>
+<origin></origin>
+<pubdate></pubdate>
+<pubtime></pubtime>
+<title></title>
+<edition></edition>
+<geoform></geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace></pubplace>
+<publish></publish>
+</pubinfo>
+<othercit></othercit>
+<onlink></onlink>
+<lworkcit></lworkcit>
+</citeinfo>
+</lworkcit>
+</citeinfo>
+</crossref>
+<crossref>
+<citeinfo>
+<origin>Center for International Earth Science Information Network - CIESIN - Columbia University</origin>
+<pubdate>20151231</pubdate>
+<pubtime></pubtime>
+<title>Natural Resource Protection and Child Health Indicators, 2015 Release</title>
+<edition>2015.00</edition>
+<geoform>tabular</geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace>Palisades, NY</pubplace>
+<publish>NASA Socioeconomic Data and Applications Center (SEDAC)</publish>
+</pubinfo>
+<othercit></othercit>
+<onlink>https://doi.org/10.7927/H4G73BM2</onlink>
+<smcilnkh>true</smcilnkh>
+<lworkcit>
+<citeinfo>
+<origin></origin>
+<pubdate></pubdate>
+<pubtime></pubtime>
+<title></title>
+<edition></edition>
+<geoform></geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace></pubplace>
+<publish></publish>
+</pubinfo>
+<othercit></othercit>
+<onlink></onlink>
+<lworkcit></lworkcit>
+</citeinfo>
+</lworkcit>
+</citeinfo>
+</crossref>
+<crossref>
+<citeinfo>
+<origin>Center for International Earth Science Information Network - CIESIN - Columbia University</origin>
+<pubdate>20161231</pubdate>
+<pubtime></pubtime>
+<title>Natural Resource Protection and Child Health Indicators, 2016 Release</title>
+<edition>2016.00</edition>
+<geoform>tabular</geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace>Palisades, NY</pubplace>
+<publish>NASA Socioeconomic Data and Applications Center (SEDAC)</publish>
+</pubinfo>
+<othercit></othercit>
+<onlink>https://doi.org/10.7927/H48913TX</onlink>
+<smcilnkh>true</smcilnkh>
+<lworkcit>
+<citeinfo>
+<origin></origin>
+<pubdate></pubdate>
+<pubtime></pubtime>
+<title></title>
+<edition></edition>
+<geoform></geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace></pubplace>
+<publish></publish>
+</pubinfo>
+<othercit></othercit>
+<onlink></onlink>
+<lworkcit></lworkcit>
+</citeinfo>
+</lworkcit>
+</citeinfo>
+</crossref>
+<crossref>
+<citeinfo>
+<origin>Center for International Earth Science Information Network - CIESIN - Columbia University</origin>
+<pubdate>20181231</pubdate>
+<pubtime></pubtime>
+<title>Natural Resource Protection and Child Health Indicators, 2018 Release</title>
+<edition>2018.00</edition>
+<geoform>tabular</geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace>Palisades, NY</pubplace>
+<publish>NASA Socioeconomic Data and Applications Center (SEDAC)</publish>
+</pubinfo>
+<othercit></othercit>
+<onlink>https://doi.org/10.7927/6t8a-es66</onlink>
+<smcilnkh>true</smcilnkh>
+<lworkcit>
+<citeinfo>
+<origin></origin>
+<pubdate></pubdate>
+<pubtime></pubtime>
+<title></title>
+<edition></edition>
+<geoform></geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace></pubplace>
+<publish></publish>
+</pubinfo>
+<othercit></othercit>
+<onlink></onlink>
+<lworkcit></lworkcit>
+</citeinfo>
+</lworkcit>
+</citeinfo>
+</crossref>
+<crossref>
+<citeinfo>
+<origin>Center for International Earth Science Information Network - CIESIN - Columbia University</origin>
+<pubdate>20180823</pubdate>
+<pubtime></pubtime>
+<title>Documentation for the Natural Resource Protection and Child Health Indicators, 2017 Release</title>
+<edition></edition>
+<geoform>documentation</geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace>Palisades, NY</pubplace>
+<publish>NASA Socioeconomic Data and Applications Center (SEDAC)</publish>
+</pubinfo>
+<othercit></othercit>
+<onlink>https://doi.org/10.7927/H4MW2F7S</onlink>
+<smcilnkh>true</smcilnkh>
+<lworkcit>
+<citeinfo>
+<origin></origin>
+<pubdate></pubdate>
+<pubtime></pubtime>
+<title></title>
+<edition></edition>
+<geoform></geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace></pubplace>
+<publish></publish>
+</pubinfo>
+<othercit></othercit>
+<onlink></onlink>
+<lworkcit></lworkcit>
+</citeinfo>
+</lworkcit>
+</citeinfo>
+</crossref>
+<crossref>
+<citeinfo>
+<origin>Center for International Earth Science Information Network - CIESIN - Columbia University</origin>
+<pubdate>20191231</pubdate>
+<pubtime></pubtime>
+<title>Natural Resource Protection and Child Health Indicators, 2019 Release</title>
+<edition>2019.00</edition>
+<geoform>tabular</geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace>Palisades, NY</pubplace>
+<publish>NASA Socioeconomic Data and Applications Center (SEDAC)</publish>
+</pubinfo>
+<othercit></othercit>
+<onlink>https://doi.org/10.7927/r6mv-sv82</onlink>
+<smcilnkh>true</smcilnkh>
+<lworkcit>
+<citeinfo>
+<origin></origin>
+<pubdate></pubdate>
+<pubtime></pubtime>
+<title></title>
+<edition></edition>
+<geoform></geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace></pubplace>
+<publish></publish>
+</pubinfo>
+<othercit></othercit>
+<onlink></onlink>
+<lworkcit></lworkcit>
+</citeinfo>
+</lworkcit>
+</citeinfo>
+</crossref>
+<crossref>
+<citeinfo>
+<origin>Center for International Earth Science Information Network - CIESIN - Columbia University</origin>
+<pubdate>20201231</pubdate>
+<pubtime></pubtime>
+<title>Natural Resource Protection and Child Health Indicators, 2020 Release</title>
+<edition>2020.00</edition>
+<geoform>tabular</geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace>Palisades, NY</pubplace>
+<publish>NASA Socioeconomic Data and Applications Center (SEDAC)</publish>
+</pubinfo>
+<othercit></othercit>
+<onlink>https://doi.org/10.7927/7ppx-6m60</onlink>
+<smcilnkh>true</smcilnkh>
+<lworkcit>
+<citeinfo>
+<origin></origin>
+<pubdate></pubdate>
+<pubtime></pubtime>
+<title></title>
+<edition></edition>
+<geoform></geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace></pubplace>
+<publish></publish>
+</pubinfo>
+<othercit></othercit>
+<onlink></onlink>
+<lworkcit></lworkcit>
+</citeinfo>
+</lworkcit>
+</citeinfo>
+</crossref>
+<crossref>
+<citeinfo>
+<origin>Center for International Earth Science Information Network - CIESIN - Columbia University</origin>
+<pubdate>20211221</pubdate>
+<pubtime></pubtime>
+<title>Natural Resource Protection and Child Health Indicators, 2021 Release</title>
+<edition>2021.00</edition>
+<geoform>tabular</geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace>Palisades, NY</pubplace>
+<publish>NASA Socioeconomic Data and Applications Center (SEDAC)</publish>
+</pubinfo>
+<othercit></othercit>
+<onlink>https://doi.org/10.7927/5bbs-e174</onlink>
+<smcilnkh>true</smcilnkh>
+<lworkcit>
+<citeinfo>
+<origin></origin>
+<pubdate></pubdate>
+<pubtime></pubtime>
+<title></title>
+<edition></edition>
+<geoform></geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace></pubplace>
+<publish></publish>
+</pubinfo>
+<othercit></othercit>
+<onlink></onlink>
+<lworkcit></lworkcit>
+</citeinfo>
+</lworkcit>
+</citeinfo>
+</crossref>
+<smbrowse>false</smbrowse>
+<tool>
+<toolname></toolname>
+<tooldesc></tooldesc>
+<toolacc>
+<onlink></onlink>
+<toolinst></toolinst>
+<toolcomp></toolcomp>
+</toolacc>
+<toolcont>
+<cntinfo>
+<cntperp>
+<cntper></cntper>
+<cntorg></cntorg>
+</cntperp>
+<cntpos></cntpos>
+<cntaddr>
+<addrtype></addrtype>
+<address></address>
+<city></city>
+<state></state>
+<postal></postal>
+<country></country>
+</cntaddr>
+<cntvoice></cntvoice>
+<cnttdd></cnttdd>
+<cntfax></cntfax>
+<cntemail></cntemail>
+<hours></hours>
+<cntinst></cntinst>
+</cntinfo>
+</toolcont>
+<toolcite>
+<citeinfo>
+<origin></origin>
+<pubdate></pubdate>
+<pubtime></pubtime>
+<title></title>
+<edition></edition>
+<geoform></geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace></pubplace>
+<publish></publish>
+</pubinfo>
+<othercit></othercit>
+<onlink></onlink>
+<lworkcit></lworkcit>
+</citeinfo>
+</toolcite>
+</tool>
+<webpub>false</webpub>
+</idinfo>
+<dataqual>
+<attracc>
+<attraccr></attraccr>
+<qattracc>
+<attraccv></attraccv>
+<attracce></attracce>
+</qattracc>
+</attracc>
+<logic></logic>
+<complete></complete>
+<posacc>
+<horizpa>
+<horizpar></horizpar>
+<qhorizpa>
+<horizpav></horizpav>
+<horizpae></horizpae>
+</qhorizpa>
+</horizpa>
+<vertacc>
+<vertaccr></vertaccr>
+<qvertpa>
+<vertaccv></vertaccv>
+<vertacce></vertacce>
+</qvertpa>
+</vertacc>
+</posacc>
+<lineage>
+<method>
+<methtype></methtype>
+<methodid>
+<methkt></methkt>
+<methkey></methkey>
+</methodid>
+<methdesc></methdesc>
+<methcite>
+<citeinfo>
+<origin></origin>
+<pubdate></pubdate>
+<pubtime></pubtime>
+<title></title>
+<edition></edition>
+<geoform></geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace></pubplace>
+<publish></publish>
+</pubinfo>
+<othercit></othercit>
+<onlink></onlink>
+<lworkcit></lworkcit>
+</citeinfo>
+</methcite>
+</method>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin></origin>
+<pubdate></pubdate>
+<pubtime></pubtime>
+<title></title>
+<edition></edition>
+<geoform></geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace></pubplace>
+<publish></publish>
+</pubinfo>
+<othercit></othercit>
+<onlink></onlink>
+<lworkcit></lworkcit>
+</citeinfo>
+</srccite>
+<srcscale></srcscale>
+<typesrc></typesrc>
+<srctime>
+<timeinfo>
+<sngdate>
+<caldate></caldate>
+<time></time>
+</sngdate>
+</timeinfo>
+<srccurr></srccurr>
+</srctime>
+<srccitea></srccitea>
+<srccontr></srccontr>
+</srcinfo>
+<procstep>
+<procdesc>The 2017 release of the Natural Resource Protection Indicator (NRPI) and the Child Health Indicator (CHI) is computed as a standardized proximity-to-target ranging from 0 (worst performance) to 100 (at target or best performance).   For Access to Adequate Sanitation and Access to Improved Water, the proximity-to-target measure is equal to the reported percentage.  For example, if a country has 84% of its population with access to adequate sanitation, it is considered to have a proximity-to-target score of 84.  For child mortality, we compute the ratio of the measured probability of dying to the highest observed probability of dying, which in 2010 was 0.141, and multiply that by 100 to make it comparable to the 0-100 scale used in the other measures. The proximity-to-target measure is this number, which ranges from 0-100, subtracted from 100. For example, a country whose children in the 1-5 age group have a probability of dying of 0.004 would have a proximity-to-target score of 97.2 (0.004/0.1414 = 0.028; 0.028 x100 = 2.8; 100-2.8 = 97.2). The Child Health Indicator is the simple average of the three proximity-to-target scores for water, sanitation, and child mortality.
+For Natural Resource Protection, all scores by biome are capped at 17%, which is the target established at the 10th Conference of Parties of the Convention on Biological Diversity (Nagoya, Japan). The scores are capped so that greater than 17% protection in a given biome does not offset less than 17% protection in another biome. Since the range of protection levels across all countries is from 0-17%, the proximity to target scores is then calculated as the ratio of the weighted biome protection percentage to 17%, multiplied by 100. Thus, a country with 5% weighted biome protection would be calculated as follows: 5/17 = 0.29411; 0.29411 x 100 = 29.41.</procdesc>
+<srcused></srcused>
+<procdate></procdate>
+<proctime></proctime>
+<srcprod></srcprod>
+<proccont>
+<cntinfo>
+<cntorgp>
+<cntorg>NASA Socioeconomic Data and Applications Center (SEDAC)</cntorg>
+<cntper></cntper>
+</cntorgp>
+<cntpos></cntpos>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>CIESIN, Columbia University, 61 Route 9W, P.O. Box 1000</address>
+<city>Palisades</city>
+<state>New York</state>
+<postal>10964</postal>
+<country>United States</country>
+</cntaddr>
+<cntvoice>+1 845-365-8920</cntvoice>
+<cnttdd></cnttdd>
+<cntfax>+1 845-365-8922</cntfax>
+<cntemail>ciesin.info@ciesin.columbia.edu</cntemail>
+<smcoemhy>true</smcoemhy>
+<hours></hours>
+<cntinst></cntinst>
+</cntinfo>
+</proccont>
+</procstep>
+</lineage>
+<cloud></cloud>
+</dataqual>
+<spdoinfo>
+<indspref></indspref>
+<direct></direct>
+<rastinfo>
+<rasttype></rasttype>
+<rowcount></rowcount>
+<colcount></colcount>
+<vrtcount></vrtcount>
+</rastinfo>
+</spdoinfo>
+<spref>
+<horizsys>
+<geograph>
+<latres></latres>
+<longres></longres>
+<geogunit></geogunit>
+</geograph>
+<geodetic>
+<horizdn></horizdn>
+<ellips></ellips>
+<semiaxis></semiaxis>
+<denflat></denflat>
+</geodetic>
+</horizsys>
+<vertdef>
+<altsys>
+<altdatum></altdatum>
+<altres></altres>
+<altunits></altunits>
+<altenc></altenc>
+</altsys>
+<depthsys>
+<depthdn></depthdn>
+<depthres></depthres>
+<depthdu></depthdu>
+<depthem></depthem>
+</depthsys>
+</vertdef>
+</spref>
+<eainfo>
+<detailed>
+<enttyp>
+<enttypl></enttypl>
+<enttypd></enttypd>
+<enttypds></enttypds>
+</enttyp>
+<attr>
+<attrlabl></attrlabl>
+<attrdef></attrdef>
+<attrdefs></attrdefs>
+<attrdomv>
+<edom>
+<edomv></edomv>
+<edomvd></edomvd>
+<edomvds></edomvds>
+</edom>
+</attrdomv>
+<begdatea></begdatea>
+<enddatea></enddatea>
+<attrvai>
+<attrva></attrva>
+<attrvae></attrvae>
+</attrvai>
+<attrmfrq></attrmfrq>
+</attr>
+</detailed>
+<overview>
+<eaover></eaover>
+<eadetcit></eadetcit>
+</overview>
+</eainfo>
+<distinfo>
+<smdistnm>Natural Resource Protection and Child Health Indicators, 2017 Release, DIST1</smdistnm>
+<distrib>
+<cntinfo>
+<cntorgp>
+<cntorg>NASA Socioeconomic Data and Applications Center (SEDAC)</cntorg>
+<cntper></cntper>
+</cntorgp>
+<cntpos></cntpos>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>CIESIN, Columbia University, 61 Route 9W, P.O. Box 1000</address>
+<city>Palisades</city>
+<state>New York</state>
+<postal>10964</postal>
+<country>United States</country>
+</cntaddr>
+<cntvoice>+1 845-365-8920</cntvoice>
+<cnttdd></cnttdd>
+<cntfax>+1 845-365-8922</cntfax>
+<cntemail>ciesin.info@ciesin.columbia.edu</cntemail>
+<smcoemhy>true</smcoemhy>
+<hours></hours>
+<cntinst></cntinst>
+</cntinfo>
+</distrib>
+<resdesc>CIESIN_SEDAC_NRMI_NRPCHI17</resdesc>
+<distliab>CIESIN follows procedures designed to ensure that data disseminated by CIESIN are of reasonable quality. If, despite these procedures, users encounter apparent errors or misstatements in the data, they should contact SEDAC User Services at +1 845-365-8920 or via email at ciesin.info@ciesin.columbia.edu. Neither CIESIN nor NASA verifies or guarantees the accuracy, reliability, or completeness of any data provided. CIESIN provides this data without warranty of any kind whatsoever, either expressed or implied. CIESIN shall not be liable for incidental, consequential, or special damages arising out of the use of any data provided by CIESIN.</distliab>
+<stdorder>
+<digform>
+<digtinfo>
+<formname></formname>
+<formvern></formvern>
+<formspec></formspec>
+<asciistr>
+<recdel></recdel>
+<numheadl></numheadl>
+<deschead></deschead>
+<orienta></orienta>
+<casesens>false</casesens>
+<authent></authent>
+<quotech></quotech>
+<datafiel>
+<dfieldnm></dfieldnm>
+<missingv></missingv>
+<dfwidth></dfwidth>
+</datafiel>
+</asciistr>
+<formcont></formcont>
+<filedec></filedec>
+<transize></transize>
+</digtinfo>
+<digtopt>
+<onlinopt>
+<computer>
+<networka>
+<networkr></networkr>
+</networka>
+</computer>
+<accinstr></accinstr>
+<oncomp></oncomp>
+</onlinopt>
+</digtopt>
+</digform>
+<fees>0</fees>
+<ordering>The data in Microsoft Excel (.xlsx) format are available from the NASA Socioeconomic Data and Applications Center (SEDAC).</ordering>
+<turnarnd></turnarnd>
+<smdistty>1</smdistty>
+</stdorder>
+<stdorder>
+<digform>
+<digtinfo>
+<formname>Excel</formname>
+<formvern></formvern>
+<formspec></formspec>
+<asciistr>
+<recdel></recdel>
+<numheadl></numheadl>
+<deschead></deschead>
+<orienta></orienta>
+<casesens>false</casesens>
+<authent></authent>
+<quotech></quotech>
+<datafiel>
+<dfieldnm></dfieldnm>
+<missingv></missingv>
+<dfwidth></dfwidth>
+</datafiel>
+</asciistr>
+<formcont></formcont>
+<filedec>Unzip</filedec>
+<transize></transize>
+</digtinfo>
+<digtopt>
+<onlinopt>
+<computer>
+<networka>
+<networkr>https://sedac.ciesin.columbia.edu/data/set/nrmi-natural-resource-protection-child-health-indicators-2017/data-download</networkr>
+<smhyperl>-1</smhyperl>
+</networka>
+</computer>
+<accinstr>Data accessible via the data set landing page.</accinstr>
+<oncomp></oncomp>
+</onlinopt>
+<smdistty>1</smdistty>
+</digtopt>
+</digform>
+<digform>
+<digtinfo>
+<formname>WMS</formname>
+<formvern></formvern>
+<formspec></formspec>
+<asciistr>
+<recdel></recdel>
+<numheadl></numheadl>
+<deschead></deschead>
+<orienta></orienta>
+<casesens>false</casesens>
+<authent></authent>
+<quotech></quotech>
+<datafiel>
+<dfieldnm></dfieldnm>
+<missingv></missingv>
+<dfwidth></dfwidth>
+</datafiel>
+</asciistr>
+<formcont></formcont>
+<filedec>Unzip</filedec>
+<transize></transize>
+</digtinfo>
+<digtopt>
+<onlinopt>
+<computer>
+<networka>
+<networkr>https://sedac.ciesin.columbia.edu/data/set/nrmi-natural-resource-protection-child-health-indicators-2017/maps/services</networkr>
+<smhyperl>-1</smhyperl>
+</networka>
+</computer>
+<accinstr>Web Map Services accessible via the data set landing page.</accinstr>
+<oncomp></oncomp>
+</onlinopt>
+<smdistty>1</smdistty>
+</digtopt>
+</digform>
+<fees></fees>
+<ordering></ordering>
+<turnarnd></turnarnd>
+<smdistty>1</smdistty>
+</stdorder>
+<custom></custom>
+<techpreq></techpreq>
+<availabl>
+<timeinfo>
+<rngdates>
+<begdate>20180817</begdate>
+<begtime></begtime>
+<enddate>Present</enddate>
+<endtime></endtime>
+</rngdates>
+</timeinfo>
+</availabl>
+</distinfo>
+<metainfo>
+<metd>20180125</metd>
+<metrd>20220831</metrd>
+<metfrd></metfrd>
+<metc>
+<cntinfo>
+<cntorgp>
+<cntorg>Center for International Earth Science Information Network (CIESIN) Metadata Administration</cntorg>
+<cntper></cntper>
+</cntorgp>
+<cntpos></cntpos>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>CIESIN, Columbia University, 61 Route 9W, P.O. Box 1000</address>
+<city>Palisades</city>
+<state>New York</state>
+<postal>10964</postal>
+<country>United States</country>
+</cntaddr>
+<cntvoice>+1 845-365-8988</cntvoice>
+<cnttdd></cnttdd>
+<cntfax>+1 845-365-8922</cntfax>
+<cntemail>metadata@ciesin.columbia.edu</cntemail>
+<smcoemhy>true</smcoemhy>
+<hours></hours>
+<cntinst></cntinst>
+</cntinfo>
+</metc>
+<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+<metstdv>FGDC-STD-001-1998</metstdv>
+<mettc>local time</mettc>
+<metac></metac>
+<metuc></metuc>
+<metsi>
+<metscs></metscs>
+<metsc></metsc>
+<metshd></metshd>
+</metsi>
+<metextns>
+<onlink></onlink>
+<metprof></metprof>
+</metextns>
+</metainfo>
+</metadata>

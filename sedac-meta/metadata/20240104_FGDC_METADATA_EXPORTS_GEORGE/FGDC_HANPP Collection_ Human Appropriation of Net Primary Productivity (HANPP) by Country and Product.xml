@@ -1,0 +1,1423 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+<smusrdef>
+<smusrtxt>
+<smusrlbl>entry-id</smusrlbl>
+<smusrval>CIESIN_SEDAC_HANPP_CPROD</smusrval>
+<smusrhyp>0</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>collection-title</smusrlbl>
+<smusrval>Human Appropriation of Net Primary Productivity</smusrval>
+<smusrhyp>0</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>collection-huid</smusrlbl>
+<smusrval>hanpp</smusrval>
+<smusrhyp>0</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>data-set-title</smusrlbl>
+<smusrval>HANPP by Country and Product</smusrval>
+<smusrhyp>0</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>data-set-huid</smusrlbl>
+<smusrval>hanpp-by-country-and-product</smusrval>
+<smusrhyp>0</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>mission-area-title</smusrlbl>
+<smusrval>Environmental Sustainability</smusrval>
+<smusrhyp>0</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>mission-area</smusrlbl>
+<smusrval>es</smusrval>
+<smusrhyp>0</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>theme-agriculture</smusrlbl>
+<smusrval>3</smusrval>
+<smusrhyp>0</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>theme-conservation</smusrlbl>
+<smusrval>2</smusrval>
+<smusrhyp>0</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>theme-sustainability</smusrlbl>
+<smusrval>2</smusrval>
+<smusrhyp>0</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>gis-compatible</smusrlbl>
+<smusrval>no</smusrval>
+<smusrhyp>0</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>collection-abbreviation</smusrlbl>
+<smusrval>HANPP</smusrval>
+<smusrhyp>0</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>AU01</smusrlbl>
+<smusrval>Imhoff, M.L.</smusrval>
+<smusrhyp>0</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>AU02</smusrlbl>
+<smusrval>Bounoua, L.</smusrval>
+<smusrhyp>0</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>AU03</smusrlbl>
+<smusrval>Ricketts, T.</smusrval>
+<smusrhyp>0</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>AU04</smusrlbl>
+<smusrval>Loucks, C.</smusrval>
+<smusrhyp>0</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>AU05</smusrlbl>
+<smusrval>Harriss, R.</smusrval>
+<smusrhyp>0</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>AU06</smusrlbl>
+<smusrval>Lawrence, W.T.</smusrval>
+<smusrhyp>0</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>LWAU01</smusrlbl>
+<smusrval>Imhoff, M.L.</smusrval>
+<smusrhyp>0</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>LWAU02</smusrlbl>
+<smusrval>Bounoua, L.</smusrval>
+<smusrhyp>0</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>LWVOL</smusrlbl>
+<smusrval>111</smusrval>
+<smusrhyp>0</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>LWISSUE</smusrlbl>
+<smusrval>D22S12</smusrval>
+<smusrhyp>0</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>DOI</smusrlbl>
+<smusrval>doi:10.7927/H48G8HMK</smusrval>
+<smusrhyp>0</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>DOI URL</smusrlbl>
+<smusrval>https://doi.org/10.7927/H48G8HMK</smusrval>
+<smusrhyp>-1</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>documentation-page-url</smusrlbl>
+<smusrval>http://sedac.ciesin.columbia.edu/data/set/hanpp-hanpp-by-country-and-product/docs</smusrval>
+<smusrhyp>-1</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>product-level-id</smusrlbl>
+<smusrval>2</smusrval>
+<smusrhyp>0</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>platform-type_01</smusrlbl>
+<smusrval>Models/Analyses</smusrval>
+<smusrhyp>0</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>platform-shortname_01</smusrlbl>
+<smusrval>MODELS</smusrval>
+<smusrhyp>0</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>instrument-shortname_01</smusrlbl>
+<smusrval>Computer</smusrval>
+<smusrhyp>0</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>instrument-longname_01</smusrlbl>
+<smusrval>Computer</smusrval>
+<smusrhyp>0</smusrhyp>
+</smusrtxt>
+</smusrdef>
+<idinfo>
+<smtype>1</smtype>
+<citation>
+<citeinfo>
+<origin>Imhoff, M.L., L. Bounoua, T. Ricketts, C. Loucks, R. Harriss, and W.T. Lawrence</origin>
+<pubdate>20041231</pubdate>
+<pubtime></pubtime>
+<title>HANPP Collection: Human Appropriation of Net Primary Productivity (HANPP) by Country and Product</title>
+<edition>1.00</edition>
+<geoform>tabular</geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace>Palisades, NY</pubplace>
+<publish>NASA Socioeconomic Data and Applications Center (SEDAC)</publish>
+</pubinfo>
+<othercit></othercit>
+<onlink>https://doi.org/10.7927/H48G8HMK</onlink>
+<smcilnkh>true</smcilnkh>
+<lworkcit>
+<citeinfo>
+<origin>Imhoff, M. L., and L. Bounoua</origin>
+<pubdate>2006</pubdate>
+<pubtime></pubtime>
+<title>Exploring Global Patterns of Net Primary Production Carbon Supply and Demand Using Satellite Observations and Statistical Data</title>
+<edition></edition>
+<geoform>journal article</geoform>
+<serinfo>
+<sername>Journal of Geophysical Research</sername>
+<issue>111, D22S12</issue>
+</serinfo>
+<pubinfo>
+<pubplace></pubplace>
+<publish></publish>
+</pubinfo>
+<othercit></othercit>
+<onlink>http://dx.doi.org/10.1029/2006JD007377</onlink>
+<smcilnkh>true</smcilnkh>
+<lworkcit>
+<citeinfo>
+<origin></origin>
+<pubdate></pubdate>
+<pubtime></pubtime>
+<title></title>
+<edition></edition>
+<geoform></geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace></pubplace>
+<publish></publish>
+</pubinfo>
+<othercit></othercit>
+<onlink></onlink>
+<lworkcit></lworkcit>
+</citeinfo>
+</lworkcit>
+</citeinfo>
+</lworkcit>
+</citeinfo>
+</citation>
+<descript>
+<abstract>The HANPP Collection: Human Appropriation of Net Primary Productivity (HANPP) by Country and Product contains tabular data on carbon-equivalents of consumption by country and by type of product. The data were compiled from national-level FAO statistics on consumption of products such as vegetables, meat, paper, and wood.   HANPP represents the amount of carbon required to derive food and fibre products consumed by humans  including organic matter that is lost during harvesting and processing. Net primary productivity (NPP), the net amount of solar energy converted to plant organic matter through photosynthesis, can be measured in units of elemental carbon and represents the primary food energy source for the world&apos;s ecosystems. These tabular data were used to allocate country level NPP consumption to a spatial surface of NPP consumption (Global Patterns in Human Appropriation of Net Primary Productivity), which is part of this collection.</abstract>
+<purpose>To provide tabular data on human appropriation of net primary productivity by country.</purpose>
+<supplinf></supplinf>
+</descript>
+<timeperd>
+<timeinfo>
+<rngdates>
+<begdate>19950101</begdate>
+<begtime></begtime>
+<enddate>19951231</enddate>
+<endtime></endtime>
+</rngdates>
+</timeinfo>
+<current>publication date</current>
+</timeperd>
+<status>
+<progress>Complete</progress>
+<update>As needed</update>
+</status>
+<spdom>
+<descgeog></descgeog>
+<bounding>
+<westbc>-180.000000</westbc>
+<eastbc>180.000000</eastbc>
+<northbc>90.000000</northbc>
+<southbc>-55.000000</southbc>
+<boundalt>
+<altmin></altmin>
+<almax></almax>
+<altunits></altunits>
+</boundalt>
+</bounding>
+<dsgpoly>
+<dsgpolyo>
+<gring></gring>
+</dsgpolyo>
+<dsgpolyx>
+<gring></gring>
+</dsgpolyx>
+</dsgpoly>
+</spdom>
+<keywords>
+<theme>
+<themekt>Data Granularity</themekt>
+<themekey>Global</themekey>
+<themekey>Country</themekey>
+</theme>
+<theme>
+<themekt>ISO Topic</themekt>
+<themekey>Environment</themekey>
+<themekey>Society</themekey>
+</theme>
+<theme>
+<themekt>SEDAC Theme</themekt>
+<themekey>Agriculture</themekey>
+<themekey>Climate</themekey>
+<themekey>Sustainability</themekey>
+</theme>
+<theme>
+<themekt>GCMD Science Keywords, Version 8.6</themekt>
+<themekey>EARTH SCIENCE &gt; BIOSPHERE &gt; VEGETATION &gt; CARBON</themekey>
+</theme>
+<place>
+<placekt>CIESIN Location Terms, Version 3.1</placekt>
+<placekey>Australia</placekey>
+<placekey>Global</placekey>
+<placekey>Afghanistan</placekey>
+<placekey>Albania</placekey>
+<placekey>Algeria</placekey>
+<placekey>American Samoa</placekey>
+<placekey>Andorra</placekey>
+<placekey>Angola</placekey>
+<placekey>Anguilla</placekey>
+<placekey>Antigua and Barbuda</placekey>
+<placekey>Argentina</placekey>
+<placekey>Armenia</placekey>
+<placekey>Aruba</placekey>
+<placekey>Austria</placekey>
+<placekey>Azerbaijan</placekey>
+<placekey>Bahamas</placekey>
+<placekey>Bahrain</placekey>
+<placekey>Bangladesh</placekey>
+<placekey>Barbados</placekey>
+<placekey>Belarus</placekey>
+<placekey>Belize</placekey>
+<placekey>Benin</placekey>
+<placekey>Bermuda</placekey>
+<placekey>Bhutan</placekey>
+<placekey>Bolivia</placekey>
+<placekey>Bosnia and Herzegovina</placekey>
+<placekey>Botswana</placekey>
+<placekey>Brazil</placekey>
+<placekey>British Indian Ocean Territory</placekey>
+<placekey>British Virgin Islands</placekey>
+<placekey>Brunei</placekey>
+<placekey>Bulgaria</placekey>
+<placekey>Burkina Faso</placekey>
+<placekey>Burundi</placekey>
+<placekey>Cambodia</placekey>
+<placekey>Cameroon</placekey>
+<placekey>Canada</placekey>
+<placekey>Cape Verde</placekey>
+<placekey>Cayman Islands</placekey>
+<placekey>Central African Republic</placekey>
+<placekey>Chad</placekey>
+<placekey>Chile</placekey>
+<placekey>China</placekey>
+<placekey>Christmas Island</placekey>
+<placekey>Cocos (Keeling) Islands</placekey>
+<placekey>Colombia</placekey>
+<placekey>Comoros</placekey>
+<placekey>Cook Islands</placekey>
+<placekey>Costa Rica</placekey>
+<placekey>Croatia</placekey>
+<placekey>Cuba</placekey>
+<placekey>Cyprus</placekey>
+<placekey>Czech Republic</placekey>
+<placekey>Congo, Democratic</placekey>
+<placekey>Denmark</placekey>
+<placekey>Djibouti</placekey>
+<placekey>Dominica</placekey>
+<placekey>Ecuador</placekey>
+<placekey>Egypt</placekey>
+<placekey>El Salvador</placekey>
+<placekey>Equatorial Guinea</placekey>
+<placekey>Eritrea</placekey>
+<placekey>Estonia</placekey>
+<placekey>Ethiopia</placekey>
+<placekey>Faeroe Islands</placekey>
+<placekey>Falkland Islands</placekey>
+<placekey>Fiji</placekey>
+<placekey>Finland</placekey>
+<placekey>France</placekey>
+<placekey>French Guiana</placekey>
+<placekey>French Polynesia</placekey>
+<placekey>Gabon</placekey>
+<placekey>Gambia</placekey>
+<placekey>Georgia</placekey>
+<placekey>Germany</placekey>
+<placekey>Ghana</placekey>
+<placekey>Gibraltar</placekey>
+<placekey>Greece</placekey>
+<placekey>Greenland</placekey>
+<placekey>Grenada</placekey>
+<placekey>Guadeloupe</placekey>
+<placekey>Guam</placekey>
+<placekey>Guatemala</placekey>
+<placekey>Guinea</placekey>
+<placekey>Guinea-Bissau</placekey>
+<placekey>Guyana</placekey>
+<placekey>Haiti</placekey>
+<placekey>Honduras</placekey>
+<placekey>Hong Kong</placekey>
+<placekey>Hungary</placekey>
+<placekey>Iceland</placekey>
+<placekey>India</placekey>
+<placekey>Indonesia</placekey>
+<placekey>Iran</placekey>
+<placekey>Iraq</placekey>
+<placekey>Ireland</placekey>
+<placekey>Israel</placekey>
+<placekey>Italy</placekey>
+<placekey>Jamaica</placekey>
+<placekey>Japan</placekey>
+<placekey>Jordan</placekey>
+<placekey>Kazakhstan</placekey>
+<placekey>Kenya</placekey>
+<placekey>Kiribati</placekey>
+<placekey>Kuwait</placekey>
+<placekey>Kyrgyzstan</placekey>
+<placekey>Laos</placekey>
+<placekey>Latvia</placekey>
+<placekey>Lebanon</placekey>
+<placekey>Lesotho</placekey>
+<placekey>Liberia</placekey>
+<placekey>Libya</placekey>
+<placekey>Liechtenstein</placekey>
+<placekey>Lithuania</placekey>
+<placekey>Macau</placekey>
+<placekey>Macedonia</placekey>
+<placekey>Madagascar</placekey>
+<placekey>Malawi</placekey>
+<placekey>Malaysia</placekey>
+<placekey>Maldives</placekey>
+<placekey>Mali</placekey>
+<placekey>Malta</placekey>
+<placekey>Marshall Islands</placekey>
+<placekey>Martinique</placekey>
+<placekey>Mauritania</placekey>
+<placekey>Mauritius</placekey>
+<placekey>Mexico</placekey>
+<placekey>Micronesia</placekey>
+<placekey>Moldova</placekey>
+<placekey>Monaco</placekey>
+<placekey>Mongolia</placekey>
+<placekey>Montserrat</placekey>
+<placekey>Morocco</placekey>
+<placekey>Mozambique</placekey>
+<placekey>Myanmar</placekey>
+<placekey>Namibia</placekey>
+<placekey>Nauru</placekey>
+<placekey>Nepal</placekey>
+<placekey>Netherlands</placekey>
+<placekey>Netherlands Antilles</placekey>
+<placekey>New Caledonia</placekey>
+<placekey>New Zealand</placekey>
+<placekey>Nicaragua</placekey>
+<placekey>Niger</placekey>
+<placekey>Nigeria</placekey>
+<placekey>Niue</placekey>
+<placekey>Norfolk Island</placekey>
+<placekey>North Korea</placekey>
+<placekey>Northern Mariana Islands</placekey>
+<placekey>Norway</placekey>
+<placekey>Oman</placekey>
+<placekey>Pakistan</placekey>
+<placekey>Palau</placekey>
+<placekey>Panama</placekey>
+<placekey>Papua New Guinea</placekey>
+<placekey>Paraguay</placekey>
+<placekey>Peru</placekey>
+<placekey>Philippines</placekey>
+<placekey>Poland</placekey>
+<placekey>Portugal</placekey>
+<placekey>Puerto Rico</placekey>
+<placekey>Qatar</placekey>
+<placekey>Congo</placekey>
+<placekey>Reunion</placekey>
+<placekey>Romania</placekey>
+<placekey>Russia</placekey>
+<placekey>Rwanda</placekey>
+<placekey>St Kitts and Nevis</placekey>
+<placekey>St Lucia</placekey>
+<placekey>St Pierre and Miquelon</placekey>
+<placekey>St Vincent and The Grenadines</placekey>
+<placekey>San Marino</placekey>
+<placekey>Sao Tome And Principe</placekey>
+<placekey>Saudi Arabia</placekey>
+<placekey>Senegal</placekey>
+<placekey>Seychelles</placekey>
+<placekey>Sierra Leone</placekey>
+<placekey>Singapore</placekey>
+<placekey>Slovakia</placekey>
+<placekey>Slovenia</placekey>
+<placekey>Solomon Islands</placekey>
+<placekey>Somalia</placekey>
+<placekey>South Africa</placekey>
+<placekey>South Korea</placekey>
+<placekey>South Sandwich Islands</placekey>
+<placekey>Spain</placekey>
+<placekey>Sri Lanka</placekey>
+<placekey>Sudan</placekey>
+<placekey>Suriname</placekey>
+<placekey>Swaziland</placekey>
+<placekey>Sweden</placekey>
+<placekey>Switzerland</placekey>
+<placekey>Syrian Arab Republic</placekey>
+<placekey>Tajikistan</placekey>
+<placekey>Tanzania</placekey>
+<placekey>Thailand</placekey>
+<placekey>Togo</placekey>
+<placekey>Tokelau</placekey>
+<placekey>Tonga</placekey>
+<placekey>Trinidad And Tobago</placekey>
+<placekey>Tunisia</placekey>
+<placekey>Turkey</placekey>
+<placekey>Turkmenistan</placekey>
+<placekey>Turks And Caicos Islands</placekey>
+<placekey>Tuvalu</placekey>
+<placekey>Uganda</placekey>
+<placekey>Ukraine</placekey>
+<placekey>United Arab Emirates</placekey>
+<placekey>United Kingdom</placekey>
+<placekey>United States of America</placekey>
+<placekey>Uruguay</placekey>
+<placekey>US Virgin Islands</placekey>
+<placekey>Uzbekistan</placekey>
+<placekey>Vanuatu</placekey>
+<placekey>Vatican City</placekey>
+<placekey>Venezuela</placekey>
+<placekey>Vietnam</placekey>
+<placekey>Wake Island</placekey>
+<placekey>Wallis And Futuna Islands</placekey>
+<placekey>Western Sahara</placekey>
+<placekey>Yemen</placekey>
+<placekey>Yugoslavia</placekey>
+<placekey>Zambia</placekey>
+<placekey>Zimbabwe</placekey>
+<placekey>Gaza Strip</placekey>
+<placekey>Ghana</placekey>
+<placekey>Gibraltar</placekey>
+<placekey>St Helena</placekey>
+<placekey>Belgium</placekey>
+</place>
+<stratum>
+<stratkt></stratkt>
+<stratkey></stratkey>
+</stratum>
+<temporal>
+<tempkt></tempkt>
+<tempkey></tempkey>
+</temporal>
+</keywords>
+<taxonomy>
+<keywtax>
+<taxonkt></taxonkt>
+<taxonkey></taxonkey>
+</keywtax>
+<taxonsys>
+<classsys>
+<classcit>
+<citeinfo>
+<origin></origin>
+<pubdate></pubdate>
+<pubtime></pubtime>
+<title></title>
+<edition></edition>
+<geoform></geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace></pubplace>
+<publish></publish>
+</pubinfo>
+<othercit></othercit>
+<onlink></onlink>
+<lworkcit></lworkcit>
+</citeinfo>
+</classcit>
+<classmod></classmod>
+</classsys>
+<idref>
+<citeinfo>
+<origin></origin>
+<pubdate></pubdate>
+<pubtime></pubtime>
+<title></title>
+<edition></edition>
+<geoform></geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace></pubplace>
+<publish></publish>
+</pubinfo>
+<othercit></othercit>
+<onlink></onlink>
+<lworkcit></lworkcit>
+</citeinfo>
+</idref>
+<ider>
+<cntinfo>
+<cntperp>
+<cntper></cntper>
+<cntorg></cntorg>
+</cntperp>
+<cntpos></cntpos>
+<cntaddr>
+<addrtype></addrtype>
+<address></address>
+<city></city>
+<state></state>
+<postal></postal>
+<country></country>
+</cntaddr>
+<cntvoice></cntvoice>
+<cnttdd></cnttdd>
+<cntfax></cntfax>
+<cntemail></cntemail>
+<hours></hours>
+<cntinst></cntinst>
+</cntinfo>
+</ider>
+<taxonpro></taxonpro>
+<taxoncom></taxoncom>
+<vouchers>
+<specimen></specimen>
+<reposit>
+<cntinfo>
+<cntperp>
+<cntper></cntper>
+<cntorg></cntorg>
+</cntperp>
+<cntpos></cntpos>
+<cntaddr>
+<addrtype></addrtype>
+<address></address>
+<city></city>
+<state></state>
+<postal></postal>
+<country></country>
+</cntaddr>
+<cntvoice></cntvoice>
+<cnttdd></cnttdd>
+<cntfax></cntfax>
+<cntemail></cntemail>
+<hours></hours>
+<cntinst></cntinst>
+</cntinfo>
+</reposit>
+</vouchers>
+</taxonsys>
+<taxongen></taxongen>
+<taxoncl>
+<taxonrn></taxonrn>
+<taxonrv></taxonrv>
+<common></common>
+<taxoncl>
+<taxonrn></taxonrn>
+<taxonrv></taxonrv>
+<common></common>
+</taxoncl>
+</taxoncl>
+</taxonomy>
+<accconst>None</accconst>
+<useconst>Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.</useconst>
+<ptcontac>
+<cntinfo>
+<cntorgp>
+<cntorg>NASA Socioeconomic Data and Applications Center (SEDAC)</cntorg>
+<cntper></cntper>
+</cntorgp>
+<cntpos></cntpos>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>CIESIN, Columbia University, 61 Route 9W, P.O. Box 1000</address>
+<city>Palisades</city>
+<state>New York</state>
+<postal>10964</postal>
+<country>United States</country>
+</cntaddr>
+<cntvoice>+1 845-365-8920</cntvoice>
+<cnttdd></cnttdd>
+<cntfax>+1 845-365-8922</cntfax>
+<cntemail>ciesin.info@ciesin.columbia.edu</cntemail>
+<smcoemhy>true</smcoemhy>
+<hours></hours>
+<cntinst></cntinst>
+</cntinfo>
+</ptcontac>
+<browse>
+<browsen>https://sedac.ciesin.columbia.edu/downloads/maps/hanpp/hanpp-by-country-and-product/sedac-logo.jpg</browsen>
+<browsed></browsed>
+<browset>JPEG</browset>
+<smidbrgh>-1</smidbrgh>
+</browse>
+<datacred></datacred>
+<secinfo>
+<secsys></secsys>
+<secclass></secclass>
+<sechandl></sechandl>
+</secinfo>
+<native></native>
+<crossref>
+<citeinfo>
+<origin>Imhoff, M.L., L. Bounoua,T. Ricketts, C.Loucks, R. Harriss  and W.T. Lawrence</origin>
+<pubdate>20040624</pubdate>
+<pubtime></pubtime>
+<title>Global Patterns in Human Consumption of Net Primary Production</title>
+<edition></edition>
+<geoform>Journal article</geoform>
+<serinfo>
+<sername>Nature</sername>
+<issue>429, 24 June 2004:870-873</issue>
+</serinfo>
+<pubinfo>
+<pubplace></pubplace>
+<publish></publish>
+</pubinfo>
+<othercit></othercit>
+<onlink>https://doi.org/10.1038/nature02619</onlink>
+<smcilnkh>true</smcilnkh>
+<lworkcit>
+<citeinfo>
+<origin></origin>
+<pubdate></pubdate>
+<pubtime></pubtime>
+<title></title>
+<edition></edition>
+<geoform></geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace></pubplace>
+<publish></publish>
+</pubinfo>
+<othercit></othercit>
+<onlink></onlink>
+<lworkcit></lworkcit>
+</citeinfo>
+</lworkcit>
+</citeinfo>
+</crossref>
+<crossref>
+<citeinfo>
+<origin>Imhoff, M.L., L. Bounoua, T. Ricketts, C. Loucks, R. Harriss, and W.T. Lawrence</origin>
+<pubdate>20041231</pubdate>
+<pubtime></pubtime>
+<title>HANPP Collection: Global Patterns in Human Appropriation of Net Primary Productivity (HANPP)</title>
+<edition>1.00</edition>
+<geoform>raster, map</geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace>Palisades, NY</pubplace>
+<publish>NASA Socioeconomic Data and Applications Center (SEDAC)</publish>
+</pubinfo>
+<othercit></othercit>
+<onlink>https://doi.org/10.7927/H44Q7RWV</onlink>
+<smcilnkh>true</smcilnkh>
+<lworkcit>
+<citeinfo>
+<origin>Imhoff, M. L., and L. Bounoua</origin>
+<pubdate>2006</pubdate>
+<pubtime></pubtime>
+<title>Exploring Global Patterns of Net Primary Production Carbon Supply and Demand Using Satellite Observations and Statistical Data</title>
+<edition></edition>
+<geoform>journal article</geoform>
+<serinfo>
+<sername>Journal of Geophysical Research</sername>
+<issue>111, D22S12</issue>
+</serinfo>
+<pubinfo>
+<pubplace></pubplace>
+<publish></publish>
+</pubinfo>
+<othercit></othercit>
+<onlink>http://dx.doi.org/10.1029/2006JD007377</onlink>
+<smcilnkh>true</smcilnkh>
+<lworkcit>
+<citeinfo>
+<origin></origin>
+<pubdate></pubdate>
+<pubtime></pubtime>
+<title></title>
+<edition></edition>
+<geoform></geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace></pubplace>
+<publish></publish>
+</pubinfo>
+<othercit></othercit>
+<onlink></onlink>
+<lworkcit></lworkcit>
+</citeinfo>
+</lworkcit>
+</citeinfo>
+</lworkcit>
+</citeinfo>
+</crossref>
+<crossref>
+<citeinfo>
+<origin>Imhoff, M.L., L. Bounoua, T. Ricketts, C. Loucks, R. Harriss, and W.T. Lawrence</origin>
+<pubdate>20041231</pubdate>
+<pubtime></pubtime>
+<title>HANPP Collection: Global Patterns in Net Primary Productivity (NPP)</title>
+<edition>1.00</edition>
+<geoform>raster, map</geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace>Palisades, NY</pubplace>
+<publish>NASA Socioeconomic Data and Applications Center (SEDAC)</publish>
+</pubinfo>
+<othercit></othercit>
+<onlink>https://doi.org/10.7927/H40Z715X</onlink>
+<smcilnkh>true</smcilnkh>
+<lworkcit>
+<citeinfo>
+<origin>Imhoff, M. L., and L. Bounoua</origin>
+<pubdate>2006</pubdate>
+<pubtime></pubtime>
+<title>Exploring Global Patterns of Net Primary Production Carbon Supply and Demand Using Satellite Observations and Statistical Data</title>
+<edition></edition>
+<geoform>journal article</geoform>
+<serinfo>
+<sername>Journal of Geophysical Research</sername>
+<issue>111, D22S12</issue>
+</serinfo>
+<pubinfo>
+<pubplace></pubplace>
+<publish></publish>
+</pubinfo>
+<othercit></othercit>
+<onlink>http://dx.doi.org/10.1029/2006JD007377</onlink>
+<smcilnkh>true</smcilnkh>
+<lworkcit>
+<citeinfo>
+<origin></origin>
+<pubdate></pubdate>
+<pubtime></pubtime>
+<title></title>
+<edition></edition>
+<geoform></geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace></pubplace>
+<publish></publish>
+</pubinfo>
+<othercit></othercit>
+<onlink></onlink>
+<lworkcit></lworkcit>
+</citeinfo>
+</lworkcit>
+</citeinfo>
+</lworkcit>
+</citeinfo>
+</crossref>
+<crossref>
+<citeinfo>
+<origin>Imhoff, M.L., L. Bounoua, T. Ricketts, C. Loucks, R. Harriss, and W.T. Lawrence</origin>
+<pubdate>20041231</pubdate>
+<pubtime></pubtime>
+<title>HANPP Collection: Human Appropriation of Net Primary Productivity as a Percentage of Net Primary Productivity</title>
+<edition>1.00</edition>
+<geoform>raster, map</geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace>Palisades, NY</pubplace>
+<publish>NASA Socioeconomic Data and Applications Center (SEDAC)</publish>
+</pubinfo>
+<othercit></othercit>
+<onlink>https://doi.org/10.7927/H4W66HPJ</onlink>
+<smcilnkh>true</smcilnkh>
+<lworkcit>
+<citeinfo>
+<origin>Imhoff, M. L., and L. Bounoua</origin>
+<pubdate>2006</pubdate>
+<pubtime></pubtime>
+<title>Exploring Global Patterns of Net Primary Production Carbon Supply and Demand Using Satellite Observations and Statistical Data</title>
+<edition></edition>
+<geoform>journal article</geoform>
+<serinfo>
+<sername>Journal of Geophysical Research</sername>
+<issue>111, D22S12</issue>
+</serinfo>
+<pubinfo>
+<pubplace></pubplace>
+<publish></publish>
+</pubinfo>
+<othercit></othercit>
+<onlink>http://dx.doi.org/10.1029/2006JD007377</onlink>
+<smcilnkh>true</smcilnkh>
+<lworkcit>
+<citeinfo>
+<origin></origin>
+<pubdate></pubdate>
+<pubtime></pubtime>
+<title></title>
+<edition></edition>
+<geoform></geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace></pubplace>
+<publish></publish>
+</pubinfo>
+<othercit></othercit>
+<onlink></onlink>
+<lworkcit></lworkcit>
+</citeinfo>
+</lworkcit>
+</citeinfo>
+</lworkcit>
+</citeinfo>
+</crossref>
+<smbrowse>false</smbrowse>
+<tool>
+<toolname></toolname>
+<tooldesc></tooldesc>
+<toolacc>
+<onlink></onlink>
+<toolinst></toolinst>
+<toolcomp></toolcomp>
+</toolacc>
+<toolcont>
+<cntinfo>
+<cntperp>
+<cntper></cntper>
+<cntorg></cntorg>
+</cntperp>
+<cntpos></cntpos>
+<cntaddr>
+<addrtype></addrtype>
+<address></address>
+<city></city>
+<state></state>
+<postal></postal>
+<country></country>
+</cntaddr>
+<cntvoice></cntvoice>
+<cnttdd></cnttdd>
+<cntfax></cntfax>
+<cntemail></cntemail>
+<hours></hours>
+<cntinst></cntinst>
+</cntinfo>
+</toolcont>
+<toolcite>
+<citeinfo>
+<origin></origin>
+<pubdate></pubdate>
+<pubtime></pubtime>
+<title></title>
+<edition></edition>
+<geoform></geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace></pubplace>
+<publish></publish>
+</pubinfo>
+<othercit></othercit>
+<onlink></onlink>
+<lworkcit></lworkcit>
+</citeinfo>
+</toolcite>
+</tool>
+<webpub>false</webpub>
+</idinfo>
+<dataqual>
+<attracc>
+<attraccr></attraccr>
+<qattracc>
+<attraccv></attraccv>
+<attracce></attracce>
+</qattracc>
+</attracc>
+<logic></logic>
+<complete></complete>
+<posacc>
+<horizpa>
+<horizpar></horizpar>
+<qhorizpa>
+<horizpav></horizpav>
+<horizpae></horizpae>
+</qhorizpa>
+</horizpa>
+<vertacc>
+<vertaccr></vertaccr>
+<qvertpa>
+<vertaccv></vertaccv>
+<vertacce></vertacce>
+</qvertpa>
+</vertacc>
+</posacc>
+<lineage>
+<method>
+<methtype></methtype>
+<methodid>
+<methkt></methkt>
+<methkey></methkey>
+</methodid>
+<methdesc></methdesc>
+<methcite>
+<citeinfo>
+<origin></origin>
+<pubdate></pubdate>
+<pubtime></pubtime>
+<title></title>
+<edition></edition>
+<geoform></geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace></pubplace>
+<publish></publish>
+</pubinfo>
+<othercit></othercit>
+<onlink></onlink>
+<lworkcit></lworkcit>
+</citeinfo>
+</methcite>
+</method>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>Imhoff, M.L., L. Bounoua,T. Ricketts, C.Loucks, R. Harriss  and W.T. Lawrence</origin>
+<pubdate>20040624</pubdate>
+<pubtime></pubtime>
+<title>Global Patterns in Human Consumption of Net Primary Production</title>
+<edition></edition>
+<geoform>Journal article</geoform>
+<serinfo>
+<sername>Nature</sername>
+<issue>429, 24 June 2004:870-873</issue>
+</serinfo>
+<pubinfo>
+<pubplace></pubplace>
+<publish></publish>
+</pubinfo>
+<othercit></othercit>
+<onlink>https://doi.org/10.1038/nature02619</onlink>
+<smcilnkh>true</smcilnkh>
+<lworkcit>
+<citeinfo>
+<origin></origin>
+<pubdate></pubdate>
+<pubtime></pubtime>
+<title></title>
+<edition></edition>
+<geoform></geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace></pubplace>
+<publish></publish>
+</pubinfo>
+<othercit></othercit>
+<onlink></onlink>
+<lworkcit></lworkcit>
+</citeinfo>
+</lworkcit>
+</citeinfo>
+</srccite>
+<srcscale></srcscale>
+<typesrc></typesrc>
+<srctime>
+<timeinfo>
+<sngdate>
+<caldate></caldate>
+<time></time>
+</sngdate>
+</timeinfo>
+<srccurr></srccurr>
+</srctime>
+<srccitea></srccitea>
+<srccontr></srccontr>
+</srcinfo>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>Imhoff, M. L. and Bounoua, L.</origin>
+<pubdate>2006</pubdate>
+<pubtime></pubtime>
+<title>Exploring Global Patterns of Net  Primary Production Carbon Supply and Demand Using Satellite Observations and Statistical Data</title>
+<edition></edition>
+<geoform>Journal article</geoform>
+<serinfo>
+<sername>Journal of Geophysical Research</sername>
+<issue>111, D22S12</issue>
+</serinfo>
+<pubinfo>
+<pubplace></pubplace>
+<publish></publish>
+</pubinfo>
+<othercit></othercit>
+<onlink>http://www.agu.org/journals/jd/jd0622/2006JD007377/</onlink>
+<smcilnkh>true</smcilnkh>
+<lworkcit>
+<citeinfo>
+<origin></origin>
+<pubdate></pubdate>
+<pubtime></pubtime>
+<title></title>
+<edition></edition>
+<geoform></geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace></pubplace>
+<publish></publish>
+</pubinfo>
+<othercit></othercit>
+<onlink></onlink>
+<lworkcit></lworkcit>
+</citeinfo>
+</lworkcit>
+</citeinfo>
+</srccite>
+<srcscale></srcscale>
+<typesrc></typesrc>
+<srctime>
+<timeinfo>
+<sngdate>
+<caldate></caldate>
+<time></time>
+</sngdate>
+</timeinfo>
+<srccurr></srccurr>
+</srctime>
+<srccitea></srccitea>
+<srccontr></srccontr>
+</srcinfo>
+<procstep>
+<procdesc>To construct the human appropriation of net primary productivity (HANPP) by country and product data set, the authors utilized data from the Food and Agriculture Organization of the United Nations (FAO) on products consumed in 1995 for 230 countries in seven categories: vegetal foods, meat, milk, eggs, wood, paper, and fiber. All calculations use the &quot;domestic supply&quot; quantity for all FAOSTAT country-level sums (i.e., production in country + imports - exports). This constrains the country-level estimate of NPP required to only those products that are consumed within a country&apos;s boundaries. To these data they applied harvest, processing, and efficiency multipliers, as well as estimates of below-ground production, to reconstruct the total amount of NPP required to derive final products. For more information, a detailed description of the methods utilized to produce the HANPP data is provided in the journal articles in the Source Citation.</procdesc>
+<srcused></srcused>
+<procdate></procdate>
+<proctime></proctime>
+<srcprod></srcprod>
+<proccont>
+<cntinfo>
+<cntperp>
+<cntper></cntper>
+<cntorg></cntorg>
+</cntperp>
+<cntpos></cntpos>
+<cntaddr>
+<addrtype></addrtype>
+<address></address>
+<city></city>
+<state></state>
+<postal></postal>
+<country></country>
+</cntaddr>
+<cntvoice></cntvoice>
+<cnttdd></cnttdd>
+<cntfax></cntfax>
+<cntemail></cntemail>
+<hours></hours>
+<cntinst></cntinst>
+</cntinfo>
+</proccont>
+</procstep>
+</lineage>
+<cloud></cloud>
+</dataqual>
+<spdoinfo>
+<indspref></indspref>
+<direct></direct>
+<ptvctinf>
+<sdtsterm>
+<sdtstype></sdtstype>
+<ptvctcnt></ptvctcnt>
+</sdtsterm>
+</ptvctinf>
+</spdoinfo>
+<spref>
+<horizsys>
+<planar>
+<mapproj>
+<mapprojn></mapprojn>
+<albers>
+<stdparll></stdparll>
+<stdparll></stdparll>
+<longcm></longcm>
+<latprjo></latprjo>
+<feast></feast>
+<fnorth></fnorth>
+</albers>
+</mapproj>
+<planci>
+<plance></plance>
+<coordrep>
+<absres></absres>
+<ordres></ordres>
+</coordrep>
+<plandu></plandu>
+</planci>
+</planar>
+<geodetic>
+<horizdn></horizdn>
+<ellips></ellips>
+<semiaxis></semiaxis>
+<denflat></denflat>
+</geodetic>
+</horizsys>
+<vertdef>
+<altsys>
+<altdatum></altdatum>
+<altres></altres>
+<altunits></altunits>
+<altenc></altenc>
+</altsys>
+<depthsys>
+<depthdn></depthdn>
+<depthres></depthres>
+<depthdu></depthdu>
+<depthem></depthem>
+</depthsys>
+</vertdef>
+</spref>
+<eainfo>
+<detailed>
+<enttyp>
+<enttypl></enttypl>
+<enttypd></enttypd>
+<enttypds></enttypds>
+</enttyp>
+<attr>
+<attrlabl></attrlabl>
+<attrdef></attrdef>
+<attrdefs></attrdefs>
+<attrdomv>
+<edom>
+<edomv></edomv>
+<edomvd></edomvd>
+<edomvds></edomvds>
+</edom>
+</attrdomv>
+<begdatea></begdatea>
+<enddatea></enddatea>
+<attrvai>
+<attrva></attrva>
+<attrvae></attrvae>
+</attrvai>
+<attrmfrq></attrmfrq>
+</attr>
+</detailed>
+<overview>
+<eaover></eaover>
+<eadetcit></eadetcit>
+</overview>
+</eainfo>
+<distinfo>
+<smdistnm>HANNP Collection: Human Appropriation of Net Primary Productivity (HANPP) by Country and Product DIST 1</smdistnm>
+<distrib>
+<cntinfo>
+<cntorgp>
+<cntorg>NASA Socioeconomic Data and Applications Center (SEDAC)</cntorg>
+<cntper></cntper>
+</cntorgp>
+<cntpos></cntpos>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>CIESIN, Columbia University, 61 Route 9W, P.O. Box 1000</address>
+<city>Palisades</city>
+<state>New York</state>
+<postal>10964</postal>
+<country>United States</country>
+</cntaddr>
+<cntvoice>+1 845-365-8920</cntvoice>
+<cnttdd></cnttdd>
+<cntfax>+1 845-365-8922</cntfax>
+<cntemail>ciesin.info@ciesin.columbia.edu</cntemail>
+<smcoemhy>true</smcoemhy>
+<hours></hours>
+<cntinst></cntinst>
+</cntinfo>
+</distrib>
+<resdesc>CIESIN_SEDAC_HANPP_CPROD</resdesc>
+<distliab>CIESIN follows procedures designed to ensure that data disseminated by CIESIN are of reasonable quality. If, despite these procedures, users encounter apparent errors or misstatements in the data, they should contact SEDAC User Services at +1 845-365-8920 or via email at ciesin.info@ciesin.columbia.edu. Neither CIESIN nor NASA verifies or guarantees the accuracy, reliability, or completeness of any data provided. CIESIN provides this data without warranty of any kind whatsoever, either express or implied. CIESIN shall not be liable for incidental, consequential, or special damages arising out of the use of any data provided by CIESIN.</distliab>
+<stdorder>
+<digform>
+<digtinfo>
+<formname></formname>
+<formvern></formvern>
+<formspec></formspec>
+<asciistr>
+<recdel></recdel>
+<numheadl></numheadl>
+<deschead></deschead>
+<orienta></orienta>
+<casesens>false</casesens>
+<authent></authent>
+<quotech></quotech>
+<datafiel>
+<dfieldnm></dfieldnm>
+<missingv></missingv>
+<dfwidth></dfwidth>
+</datafiel>
+</asciistr>
+<formcont></formcont>
+<filedec></filedec>
+<transize></transize>
+</digtinfo>
+<digtopt>
+<onlinopt>
+<computer>
+<networka>
+<networkr></networkr>
+</networka>
+</computer>
+<accinstr></accinstr>
+<oncomp></oncomp>
+</onlinopt>
+</digtopt>
+</digform>
+<fees>0</fees>
+<ordering>The data in Microsoft Excel (.xls) format are available from the NASA Socioeconomic Data and Applications Center (SEDAC).</ordering>
+<turnarnd></turnarnd>
+<smdistty>1</smdistty>
+</stdorder>
+<stdorder>
+<digform>
+<digtinfo>
+<formname>Excel</formname>
+<formvern></formvern>
+<formspec></formspec>
+<asciistr>
+<recdel></recdel>
+<numheadl></numheadl>
+<deschead></deschead>
+<orienta></orienta>
+<casesens>false</casesens>
+<authent></authent>
+<quotech></quotech>
+<datafiel>
+<dfieldnm></dfieldnm>
+<missingv></missingv>
+<dfwidth></dfwidth>
+</datafiel>
+</asciistr>
+<formcont></formcont>
+<filedec>Unzip</filedec>
+<transize></transize>
+</digtinfo>
+<digtopt>
+<onlinopt>
+<computer>
+<networka>
+<networkr>https://sedac.ciesin.columbia.edu/data/set/hanpp-by-country-and-product/data-download</networkr>
+<smhyperl>-1</smhyperl>
+</networka>
+</computer>
+<accinstr>Data accessible via the data set landing page.</accinstr>
+<oncomp></oncomp>
+</onlinopt>
+<smdistty>1</smdistty>
+</digtopt>
+</digform>
+<fees></fees>
+<ordering></ordering>
+<turnarnd></turnarnd>
+<smdistty>1</smdistty>
+</stdorder>
+<custom></custom>
+<techpreq></techpreq>
+<availabl>
+<timeinfo>
+<rngdates>
+<begdate>20061231</begdate>
+<begtime></begtime>
+<enddate>Present</enddate>
+<endtime></endtime>
+</rngdates>
+</timeinfo>
+</availabl>
+</distinfo>
+<metainfo>
+<metd>20061031</metd>
+<metrd>20220831</metrd>
+<metfrd></metfrd>
+<metc>
+<cntinfo>
+<cntorgp>
+<cntorg>Center for International Earth Science Information Network (CIESIN) Metadata Administration</cntorg>
+<cntper></cntper>
+</cntorgp>
+<cntpos></cntpos>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>CIESIN, Columbia University, 61 Route 9W, P.O. Box 1000</address>
+<city>Palisades</city>
+<state>New York</state>
+<postal>10964</postal>
+<country>United States</country>
+</cntaddr>
+<cntvoice>+1 845-365-8988</cntvoice>
+<cnttdd></cnttdd>
+<cntfax>+1 845-365-8922</cntfax>
+<cntemail>metadata@ciesin.columbia.edu</cntemail>
+<smcoemhy>true</smcoemhy>
+<hours></hours>
+<cntinst></cntinst>
+</cntinfo>
+</metc>
+<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+<metstdv>FGDC-STD-001-1998</metstdv>
+<mettc>local time</mettc>
+<metac></metac>
+<metuc></metuc>
+<metsi>
+<metscs></metscs>
+<metsc></metsc>
+<metshd></metshd>
+</metsi>
+<metextns>
+<onlink></onlink>
+<metprof></metprof>
+</metextns>
+</metainfo>
+</metadata>

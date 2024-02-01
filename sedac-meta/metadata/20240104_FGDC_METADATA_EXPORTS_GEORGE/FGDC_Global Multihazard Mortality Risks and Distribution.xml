@@ -1,0 +1,2290 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+<smusrdef>
+<smusrtxt>
+<smusrlbl>entry-id</smusrlbl>
+<smusrval>CIESIN_CHRR_NDH_MULTI_MRD</smusrval>
+<smusrhyp>0</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>theme-hazards</smusrlbl>
+<smusrval>1</smusrval>
+<smusrhyp>0</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>theme-sustainability</smusrlbl>
+<smusrval>4</smusrval>
+<smusrhyp>0</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>collection-title</smusrlbl>
+<smusrval>Natural Disaster Hotspots</smusrval>
+<smusrhyp>0</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>collection-huid</smusrlbl>
+<smusrval>ndh</smusrval>
+<smusrhyp>0</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>data-set-title</smusrlbl>
+<smusrval>Global Multihazard Mortality Risks and Distribution</smusrval>
+<smusrhyp>0</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>data-set-huid</smusrlbl>
+<smusrval>ndh-multihazard-mortality-risks-distribution</smusrval>
+<smusrhyp>0</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>mission-area-title</smusrlbl>
+<smusrval>Hazard Vulnerability Assessment</smusrval>
+<smusrhyp>0</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>mission-area</smusrlbl>
+<smusrval>hva</smusrval>
+<smusrhyp>0</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>gis-compatible</smusrlbl>
+<smusrval>yes</smusrval>
+<smusrhyp>0</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>AU01</smusrlbl>
+<smusrval>Center for Hazards and Risk Research - CHRR - Columbia University</smusrval>
+<smusrhyp>0</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>AU02</smusrlbl>
+<smusrval>Center for International Earth Science Information Network - CIESIN - Columbia University</smusrval>
+<smusrhyp>0</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>AU03</smusrlbl>
+<smusrval>International Bank for Reconstruction and Development - The World Bank</smusrval>
+<smusrhyp>0</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>LWAU01</smusrlbl>
+<smusrval>Dilley, M.</smusrval>
+<smusrhyp>0</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>LWAU02</smusrlbl>
+<smusrval>Chen, R.S.</smusrval>
+<smusrhyp>0</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>LWAU03</smusrlbl>
+<smusrval>Deichmann, U.</smusrval>
+<smusrhyp>0</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>LWAU04</smusrlbl>
+<smusrval>Lerner-Lam, A.L.</smusrval>
+<smusrhyp>0</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>LWAU05</smusrlbl>
+<smusrval>Arnold, M.</smusrval>
+<smusrhyp>0</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>LWAU06</smusrlbl>
+<smusrval>Agwe, J.</smusrval>
+<smusrhyp>0</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>LWAU07</smusrlbl>
+<smusrval>Buys, P.</smusrval>
+<smusrhyp>0</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>LWAU08</smusrlbl>
+<smusrval>Kjekstad, O.</smusrval>
+<smusrhyp>0</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>LWAU09</smusrlbl>
+<smusrval>Lyon, B.</smusrval>
+<smusrhyp>0</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>LWAU10</smusrlbl>
+<smusrval>Yetman, G.</smusrval>
+<smusrhyp>0</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>LWVOL</smusrlbl>
+<smusrval>5</smusrval>
+<smusrhyp>0</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>DOI</smusrlbl>
+<smusrval>doi:10.7927/H41J97NM</smusrval>
+<smusrhyp>0</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>DOI URL</smusrlbl>
+<smusrval>https://doi.org/10.7927/H41J97NM</smusrval>
+<smusrhyp>-1</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>product-level-id</smusrlbl>
+<smusrval>3</smusrval>
+<smusrhyp>0</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>platform-type_01</smusrlbl>
+<smusrval>Models/Analyses</smusrval>
+<smusrhyp>0</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>platform-shortname_01</smusrlbl>
+<smusrval>MODELS</smusrval>
+<smusrhyp>0</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>instrument-shortname_01</smusrlbl>
+<smusrval>Computer</smusrval>
+<smusrhyp>0</smusrhyp>
+</smusrtxt>
+<smusrtxt>
+<smusrlbl>instrument-longname_01</smusrlbl>
+<smusrval>Computer</smusrval>
+<smusrhyp>0</smusrhyp>
+</smusrtxt>
+</smusrdef>
+<idinfo>
+<smtype>1</smtype>
+<citation>
+<citeinfo>
+<origin>Center for Hazards and Risk Research - CHRR - Columbia University, Center for International Earth Science Information Network - CIESIN - Columbia University, and International Bank for Reconstruction and Development - The World Bank</origin>
+<pubdate>20051231</pubdate>
+<pubtime></pubtime>
+<title>Global Multihazard Mortality Risks and Distribution</title>
+<edition>1.00</edition>
+<geoform>raster, map</geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace>Palisades, NY</pubplace>
+<publish>Center for Hazards and Risk Research (CHRR)/Columbia University</publish>
+</pubinfo>
+<othercit></othercit>
+<onlink>https://doi.org/10.7927/H41J97NM</onlink>
+<smcilnkh>true</smcilnkh>
+<lworkcit>
+<citeinfo>
+<origin>Dilley, M., R.S. Chen, U. Deichmann, A.L. Lerner-Lam, M. Arnold, J. Agwe, P. Buys, O. Kjekstad, B. Lyon, and G. Yetman</origin>
+<pubdate>20050430</pubdate>
+<pubtime></pubtime>
+<title>Natural Disaster Hotspots: A Global Risk Analysis</title>
+<edition></edition>
+<geoform>report</geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace>Washington, D.C.</pubplace>
+<publish>World Bank</publish>
+</pubinfo>
+<othercit></othercit>
+<onlink>https://doi.org/10.1596/0-8213-5930-4</onlink>
+<smcilnkh>true</smcilnkh>
+<lworkcit>
+<citeinfo>
+<origin></origin>
+<pubdate></pubdate>
+<pubtime></pubtime>
+<title></title>
+<edition></edition>
+<geoform></geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace></pubplace>
+<publish></publish>
+</pubinfo>
+<othercit></othercit>
+<onlink></onlink>
+<lworkcit></lworkcit>
+</citeinfo>
+</lworkcit>
+</citeinfo>
+</lworkcit>
+</citeinfo>
+</citation>
+<descript>
+<abstract>The Global Multihazard Mortality Risks and Distribution is a 2.5 minute grid identifying and characterizing the nature of multihazard risk at the global scale. For this study, multihazard considers the hazards posed by cyclones, droughts, earthquakes, floods, landslides and volcanoes. The specific hazards are grouped into the following hazard categories: drought (drought), seismic (earthquakes and volcanoes), and hydro (cyclones, floods, and landslides). Each grid cell is assessed for each hazard category; and is considered at high risk or not at high risk. Treated as a binary value, the at-risk values of the hazards categories function as a 3-digit index of multihazard.
+
+
+For each of the hazard category combinations, aggregate analyses determine the total population, area, and length of major transportation features, as well as, the value of Gross Domestic Product (GDP) and agricultural GDP. This data set is the result of collaboration among the Columbia University Center for Hazards and Risk Research (CHRR), International Bank for Reconstruction and Development/The World Bank, and Columbia University Center for International Earth Science Information Network (CIESIN).</abstract>
+<purpose>To identify areas of the world at multihazard mortality risk and to gain insight into the nature of this risk posed.</purpose>
+<supplinf></supplinf>
+</descript>
+<timeperd>
+<timeinfo>
+<rngdates>
+<begdate>20000101</begdate>
+<begtime></begtime>
+<enddate>20001231</enddate>
+<endtime></endtime>
+</rngdates>
+</timeinfo>
+<current>publication date</current>
+</timeperd>
+<status>
+<progress>Complete</progress>
+<update>As needed</update>
+</status>
+<spdom>
+<descgeog></descgeog>
+<bounding>
+<westbc>-180.000000</westbc>
+<eastbc>180.000000</eastbc>
+<northbc>85.000000</northbc>
+<southbc>-58.000000</southbc>
+<boundalt>
+<altmin></altmin>
+<almax></almax>
+<altunits></altunits>
+</boundalt>
+</bounding>
+<dsgpoly>
+<dsgpolyo>
+<gring></gring>
+</dsgpolyo>
+<dsgpolyx>
+<gring></gring>
+</dsgpolyx>
+</dsgpoly>
+</spdom>
+<keywords>
+<theme>
+<themekt>ISO Topic</themekt>
+<themekey>Climatology/Meteorology/Atmosphere</themekey>
+<themekey>Geoscientific Information</themekey>
+<themekey>Health</themekey>
+<themekey>Inland Waters</themekey>
+<themekey>Society</themekey>
+</theme>
+<theme>
+<themekt>Data Granularity</themekt>
+<themekey>Global</themekey>
+<themekey>Continent</themekey>
+</theme>
+<theme>
+<themekt>SEDAC Theme</themekt>
+<themekey>Hazards</themekey>
+<themekey>Sustainability</themekey>
+</theme>
+<theme>
+<themekt>GCMD Science Keywords, Version 8.6</themekt>
+<themekey>EARTH SCIENCE &gt; HUMAN DIMENSIONS &gt; NATURAL HAZARDS &gt; DROUGHTS</themekey>
+<themekey>EARTH SCIENCE &gt; HUMAN DIMENSIONS &gt; NATURAL HAZARDS &gt; EARTHQUAKES</themekey>
+<themekey>EARTH SCIENCE &gt; HUMAN DIMENSIONS &gt; NATURAL HAZARDS &gt; FLOODS</themekey>
+<themekey>EARTH SCIENCE &gt; HUMAN DIMENSIONS &gt; NATURAL HAZARDS &gt; LANDSLIDES</themekey>
+<themekey>EARTH SCIENCE &gt; HUMAN DIMENSIONS &gt; NATURAL HAZARDS &gt; TROPICAL CYCLONES &gt; CYCLONES</themekey>
+<themekey>EARTH SCIENCE &gt; HUMAN DIMENSIONS &gt; NATURAL HAZARDS &gt; VOLCANIC ERUPTIONS</themekey>
+<themekey>EARTH SCIENCE &gt; TERRESTRIAL HYDROSPHERE &gt; SNOW/ICE &gt; AVALANCHE</themekey>
+<themekey>EARTH SCIENCE &gt; HUMAN DIMENSIONS &gt; POPULATION &gt; MORTALITY</themekey>
+</theme>
+<place>
+<placekt>CIESIN Location Terms, Version 3.1</placekt>
+<placekey>Global</placekey>
+</place>
+<stratum>
+<stratkt></stratkt>
+<stratkey></stratkey>
+</stratum>
+<temporal>
+<tempkt></tempkt>
+<tempkey></tempkey>
+</temporal>
+</keywords>
+<taxonomy>
+<keywtax>
+<taxonkt></taxonkt>
+<taxonkey></taxonkey>
+</keywtax>
+<taxonsys>
+<classsys>
+<classcit>
+<citeinfo>
+<origin></origin>
+<pubdate></pubdate>
+<pubtime></pubtime>
+<title></title>
+<edition></edition>
+<geoform></geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace></pubplace>
+<publish></publish>
+</pubinfo>
+<othercit></othercit>
+<onlink></onlink>
+<lworkcit></lworkcit>
+</citeinfo>
+</classcit>
+<classmod></classmod>
+</classsys>
+<idref>
+<citeinfo>
+<origin></origin>
+<pubdate></pubdate>
+<pubtime></pubtime>
+<title></title>
+<edition></edition>
+<geoform></geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace></pubplace>
+<publish></publish>
+</pubinfo>
+<othercit></othercit>
+<onlink></onlink>
+<lworkcit></lworkcit>
+</citeinfo>
+</idref>
+<ider>
+<cntinfo>
+<cntperp>
+<cntper></cntper>
+<cntorg></cntorg>
+</cntperp>
+<cntpos></cntpos>
+<cntaddr>
+<addrtype></addrtype>
+<address></address>
+<city></city>
+<state></state>
+<postal></postal>
+<country></country>
+</cntaddr>
+<cntvoice></cntvoice>
+<cnttdd></cnttdd>
+<cntfax></cntfax>
+<cntemail></cntemail>
+<hours></hours>
+<cntinst></cntinst>
+</cntinfo>
+</ider>
+<taxonpro></taxonpro>
+<taxoncom></taxoncom>
+<vouchers>
+<specimen></specimen>
+<reposit>
+<cntinfo>
+<cntperp>
+<cntper></cntper>
+<cntorg></cntorg>
+</cntperp>
+<cntpos></cntpos>
+<cntaddr>
+<addrtype></addrtype>
+<address></address>
+<city></city>
+<state></state>
+<postal></postal>
+<country></country>
+</cntaddr>
+<cntvoice></cntvoice>
+<cnttdd></cnttdd>
+<cntfax></cntfax>
+<cntemail></cntemail>
+<hours></hours>
+<cntinst></cntinst>
+</cntinfo>
+</reposit>
+</vouchers>
+</taxonsys>
+<taxongen></taxongen>
+<taxoncl>
+<taxonrn></taxonrn>
+<taxonrv></taxonrv>
+<common></common>
+</taxoncl>
+</taxonomy>
+<accconst>None</accconst>
+<useconst>The Trustees of Columbia University in the City of New York, Center for Hazards and Risk Research (CHRR), and International Bank for Reconstruction and Development/The World Bank hold the copyright of this data set. Users are prohibited from any commercial, non-free resale, or redistribution without explicit written permission from CHRR, CIESIN, and The World Bank. Users should acknowledge CHRR, CIESIN, and The World Bank as the source used in the creation of any reports, publications, new data sets, derived products, or services resulting from the use of this data set. CHRR, CIESIN, and The World Bank also request reprints of any publications and notification of any redistribution efforts.</useconst>
+<ptcontac>
+<cntinfo>
+<cntorgp>
+<cntorg>NASA Socioeconomic Data and Applications Center (SEDAC)</cntorg>
+<cntper></cntper>
+</cntorgp>
+<cntpos></cntpos>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>CIESIN, Columbia University, 61 Route 9W, P.O. Box 1000</address>
+<city>Palisades</city>
+<state>New York</state>
+<postal>10964</postal>
+<country>United States</country>
+</cntaddr>
+<cntvoice>+1 845-365-8920</cntvoice>
+<cnttdd></cnttdd>
+<cntfax>+1 845-365-8922</cntfax>
+<cntemail>ciesin.info@ciesin.columbia.edu</cntemail>
+<smcoemhy>true</smcoemhy>
+<hours></hours>
+<cntinst></cntinst>
+</cntinfo>
+</ptcontac>
+<browse>
+<browsen>https://sedac.ciesin.columbia.edu/downloads/maps/ndh/ndh-multihazard-mortality-risks-distribution/multihazard-mortality-thumbnail.jpg</browsen>
+<browsed>Global Multihazard Mortality Risks and Distribution</browsed>
+<browset>JPEG</browset>
+<smidbrgh>-1</smidbrgh>
+</browse>
+<datacred></datacred>
+<secinfo>
+<secsys></secsys>
+<secclass></secclass>
+<sechandl></sechandl>
+</secinfo>
+<native></native>
+<crossref>
+<citeinfo>
+<origin>Center for Hazards and Risk Research - CHRR - Columbia University, Center for International Earth Science Information Network - CIESIN - Columbia University, and International Bank for Reconstruction and Development - The World Bank</origin>
+<pubdate>20051231</pubdate>
+<pubtime></pubtime>
+<title>Global Multihazard Total Economic Loss Risk Deciles</title>
+<edition>1.00</edition>
+<geoform>raster, map</geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace>Palisades, NY</pubplace>
+<publish>Center for Hazards and Risk Research (CHRR)/Columbia University</publish>
+</pubinfo>
+<othercit></othercit>
+<onlink>https://doi.org/10.7927/H4S180F9</onlink>
+<smcilnkh>true</smcilnkh>
+<lworkcit>
+<citeinfo>
+<origin>Dilley, M., R.S. Chen, U. Deichmann, A.L. Lerner-Lam, M. Arnold, J. Agwe, P. Buys, O. Kjekstad, B. Lyon, and G. Yetman</origin>
+<pubdate>20050430</pubdate>
+<pubtime></pubtime>
+<title>Natural Disaster Hotspots: A Global Risk Analysis</title>
+<edition></edition>
+<geoform>report</geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace>Washington, D.C.</pubplace>
+<publish>World Bank</publish>
+</pubinfo>
+<othercit></othercit>
+<onlink>https://doi.org/10.1596/0-8213-5930-4</onlink>
+<smcilnkh>true</smcilnkh>
+<lworkcit>
+<citeinfo>
+<origin></origin>
+<pubdate></pubdate>
+<pubtime></pubtime>
+<title></title>
+<edition></edition>
+<geoform></geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace></pubplace>
+<publish></publish>
+</pubinfo>
+<othercit></othercit>
+<onlink></onlink>
+<lworkcit></lworkcit>
+</citeinfo>
+</lworkcit>
+</citeinfo>
+</lworkcit>
+</citeinfo>
+</crossref>
+<crossref>
+<citeinfo>
+<origin>Center for Hazards and Risk Research - CHRR - Columbia University, Center for International Earth Science Information Network - CIESIN - Columbia University, and International Bank for Reconstruction and Development - The World Bank</origin>
+<pubdate>20051231</pubdate>
+<pubtime></pubtime>
+<title>Global Multihazard Frequency and Distribution</title>
+<edition>1.00</edition>
+<geoform>raster, map</geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace>Palisades, NY</pubplace>
+<publish>Center for Hazards and Risk Research (CHRR)/Columbia University</publish>
+</pubinfo>
+<othercit></othercit>
+<onlink>https://doi.org/10.7927/H45718Z5</onlink>
+<smcilnkh>true</smcilnkh>
+<lworkcit>
+<citeinfo>
+<origin>Dilley, M., R.S. Chen, U. Deichmann, A.L. Lerner-Lam, M. Arnold, J. Agwe, P. Buys, O. Kjekstad, B. Lyon, and G. Yetman</origin>
+<pubdate>20050430</pubdate>
+<pubtime></pubtime>
+<title>Natural Disaster Hotspots: A Global Risk Analysis</title>
+<edition></edition>
+<geoform>report</geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace>Washington, D.C.</pubplace>
+<publish>World Bank</publish>
+</pubinfo>
+<othercit></othercit>
+<onlink>https://doi.org/10.1596/0-8213-5930-4</onlink>
+<smcilnkh>true</smcilnkh>
+<lworkcit>
+<citeinfo>
+<origin></origin>
+<pubdate></pubdate>
+<pubtime></pubtime>
+<title></title>
+<edition></edition>
+<geoform></geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace></pubplace>
+<publish></publish>
+</pubinfo>
+<othercit></othercit>
+<onlink></onlink>
+<lworkcit></lworkcit>
+</citeinfo>
+</lworkcit>
+</citeinfo>
+</lworkcit>
+</citeinfo>
+</crossref>
+<crossref>
+<citeinfo>
+<origin>Center for Hazards and Risk Research - CHRR - Columbia University, Center for International Earth Science Information Network - CIESIN - Columbia University, and International Bank for Reconstruction and Development - The World Bank</origin>
+<pubdate>20051231</pubdate>
+<pubtime></pubtime>
+<title>Global Multihazard Proportional Economic Loss Risk Deciles</title>
+<edition>1.00</edition>
+<geoform>raster, map</geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace>Palisades, NY</pubplace>
+<publish>Center for Hazards and Risk Research (CHRR)/Columbia University</publish>
+</pubinfo>
+<othercit></othercit>
+<onlink>https://doi.org/10.7927/H4WS8R5B</onlink>
+<smcilnkh>true</smcilnkh>
+<lworkcit>
+<citeinfo>
+<origin>Dilley, M., R.S. Chen, U. Deichmann, A.L. Lerner-Lam, M. Arnold, J. Agwe, P. Buys, O. Kjekstad, B. Lyon, and G. Yetman</origin>
+<pubdate>20050430</pubdate>
+<pubtime></pubtime>
+<title>Natural Disaster Hotspots: A Global Risk Analysis</title>
+<edition></edition>
+<geoform>report</geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace>Washington, D.C.</pubplace>
+<publish>World Bank</publish>
+</pubinfo>
+<othercit></othercit>
+<onlink>https://doi.org/10.1596/0-8213-5930-4</onlink>
+<smcilnkh>true</smcilnkh>
+<lworkcit>
+<citeinfo>
+<origin></origin>
+<pubdate></pubdate>
+<pubtime></pubtime>
+<title></title>
+<edition></edition>
+<geoform></geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace></pubplace>
+<publish></publish>
+</pubinfo>
+<othercit></othercit>
+<onlink></onlink>
+<lworkcit></lworkcit>
+</citeinfo>
+</lworkcit>
+</citeinfo>
+</lworkcit>
+</citeinfo>
+</crossref>
+<smbrowse>false</smbrowse>
+<tool>
+<toolname></toolname>
+<tooldesc></tooldesc>
+<toolacc>
+<onlink></onlink>
+<toolinst></toolinst>
+<toolcomp></toolcomp>
+</toolacc>
+<toolcont>
+<cntinfo>
+<cntperp>
+<cntper></cntper>
+<cntorg></cntorg>
+</cntperp>
+<cntpos></cntpos>
+<cntaddr>
+<addrtype></addrtype>
+<address></address>
+<city></city>
+<state></state>
+<postal></postal>
+<country></country>
+</cntaddr>
+<cntvoice></cntvoice>
+<cnttdd></cnttdd>
+<cntfax></cntfax>
+<cntemail></cntemail>
+<hours></hours>
+<cntinst></cntinst>
+</cntinfo>
+</toolcont>
+<toolcite>
+<citeinfo>
+<origin></origin>
+<pubdate></pubdate>
+<pubtime></pubtime>
+<title></title>
+<edition></edition>
+<geoform></geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace></pubplace>
+<publish></publish>
+</pubinfo>
+<othercit></othercit>
+<onlink></onlink>
+<lworkcit></lworkcit>
+</citeinfo>
+</toolcite>
+</tool>
+<webpub>false</webpub>
+</idinfo>
+<dataqual>
+<attracc>
+<attraccr></attraccr>
+<qattracc>
+<attraccv></attraccv>
+<attracce></attracce>
+</qattracc>
+</attracc>
+<logic></logic>
+<complete></complete>
+<posacc>
+<horizpa>
+<horizpar></horizpar>
+<qhorizpa>
+<horizpav></horizpav>
+<horizpae></horizpae>
+</qhorizpa>
+</horizpa>
+<vertacc>
+<vertaccr></vertaccr>
+<qvertpa>
+<vertaccv></vertaccv>
+<vertacce></vertacce>
+</qvertpa>
+</vertacc>
+</posacc>
+<lineage>
+<method>
+<methtype></methtype>
+<methodid>
+<methkt></methkt>
+<methkey></methkey>
+</methodid>
+<methdesc></methdesc>
+<methcite>
+<citeinfo>
+<origin></origin>
+<pubdate></pubdate>
+<pubtime></pubtime>
+<title></title>
+<edition></edition>
+<geoform></geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace></pubplace>
+<publish></publish>
+</pubinfo>
+<othercit></othercit>
+<onlink></onlink>
+<lworkcit></lworkcit>
+</citeinfo>
+</methcite>
+</method>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>Center for Hazards and Risk Research - CHRR - Columbia University, Center for International Earth Science Information Network - CIESIN - Columbia University, and International Bank for Reconstruction and Development - The World Bank</origin>
+<pubdate>20051231</pubdate>
+<pubtime></pubtime>
+<title>Global Cyclone Mortality Risks and Distribution</title>
+<edition>1.00</edition>
+<geoform>raster, map, map service</geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace>Palisades, NY</pubplace>
+<publish>Center for Hazards and Risk Research (CHRR)/Columbia University</publish>
+</pubinfo>
+<othercit></othercit>
+<onlink>https://doi.org/10.7927/H4862DC5</onlink>
+<smcilnkh>true</smcilnkh>
+<lworkcit>
+<citeinfo>
+<origin>Dilley, M., R.S. Chen, U. Deichmann, A.L. Lerner-Lam, M. Arnold, J. Agwe, P. Buys, O. Kjekstad, B. Lyon, and G. Yetman</origin>
+<pubdate>20050430</pubdate>
+<pubtime></pubtime>
+<title>Natural Disaster Hotspots: A Global Risk Analysis</title>
+<edition></edition>
+<geoform>report</geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace>Washington, D.C.</pubplace>
+<publish>World Bank</publish>
+</pubinfo>
+<othercit></othercit>
+<onlink>https://doi.org/10.1596/0-8213-5930-4</onlink>
+<smcilnkh>true</smcilnkh>
+<lworkcit>
+<citeinfo>
+<origin></origin>
+<pubdate></pubdate>
+<pubtime></pubtime>
+<title></title>
+<edition></edition>
+<geoform></geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace></pubplace>
+<publish></publish>
+</pubinfo>
+<othercit></othercit>
+<onlink></onlink>
+<lworkcit></lworkcit>
+</citeinfo>
+</lworkcit>
+</citeinfo>
+</lworkcit>
+</citeinfo>
+</srccite>
+<srcscale></srcscale>
+<typesrc></typesrc>
+<srctime>
+<timeinfo>
+<mdattim>
+<sngdate>
+<caldate></caldate>
+<time></time>
+</sngdate>
+</mdattim>
+</timeinfo>
+<srccurr></srccurr>
+</srctime>
+<srccitea></srccitea>
+<srccontr>Provided global source of cyclone hazard mortality risks and distribution.</srccontr>
+</srcinfo>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>Center for Hazards and Risk Research - CHRR - Columbia University, Center for International Earth Science Information Network - CIESIN - Columbia University, and International Bank for Reconstruction and Development - The World Bank</origin>
+<pubdate>20051231</pubdate>
+<pubtime></pubtime>
+<title>Global Landslide Mortality Risks and Distribution</title>
+<edition>1.00</edition>
+<geoform>raster, map, map service</geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace>Palisades, NY</pubplace>
+<publish>Center for Hazards and Risk Research (CHRR)/Columbia University</publish>
+</pubinfo>
+<othercit></othercit>
+<onlink>https://doi.org/10.7927/H4JH3J4N</onlink>
+<smcilnkh>true</smcilnkh>
+<lworkcit>
+<citeinfo>
+<origin>Dilley, M., R.S. Chen, U. Deichmann, A.L. Lerner-Lam, M. Arnold, J. Agwe, P. Buys, O. Kjekstad, B. Lyon, and G. Yetman</origin>
+<pubdate>20050430</pubdate>
+<pubtime></pubtime>
+<title>Natural Disaster Hotspots: A Global Risk Analysis</title>
+<edition></edition>
+<geoform>report</geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace>Washington, D.C.</pubplace>
+<publish>World Bank</publish>
+</pubinfo>
+<othercit></othercit>
+<onlink>https://doi.org/10.1596/0-8213-5930-4</onlink>
+<smcilnkh>true</smcilnkh>
+<lworkcit>
+<citeinfo>
+<origin></origin>
+<pubdate></pubdate>
+<pubtime></pubtime>
+<title></title>
+<edition></edition>
+<geoform></geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace></pubplace>
+<publish></publish>
+</pubinfo>
+<othercit></othercit>
+<onlink></onlink>
+<lworkcit></lworkcit>
+</citeinfo>
+</lworkcit>
+</citeinfo>
+</lworkcit>
+</citeinfo>
+</srccite>
+<srcscale></srcscale>
+<typesrc></typesrc>
+<srctime>
+<timeinfo>
+<mdattim>
+<sngdate>
+<caldate></caldate>
+<time></time>
+</sngdate>
+</mdattim>
+</timeinfo>
+<srccurr></srccurr>
+</srctime>
+<srccitea></srccitea>
+<srccontr>Provided global source of landslide hazard mortality risks and distribution.</srccontr>
+</srcinfo>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>Central Intelligence Agency (CIA)</origin>
+<pubdate></pubdate>
+<pubtime></pubtime>
+<title>CIA-The World Factbook</title>
+<edition></edition>
+<geoform></geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace></pubplace>
+<publish></publish>
+</pubinfo>
+<othercit></othercit>
+<onlink>https://www.cia.gov/library/publications/the-world-factbook/</onlink>
+<smcilnkh>true</smcilnkh>
+<lworkcit>
+<citeinfo>
+<origin></origin>
+<pubdate></pubdate>
+<pubtime></pubtime>
+<title></title>
+<edition></edition>
+<geoform></geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace></pubplace>
+<publish></publish>
+</pubinfo>
+<othercit></othercit>
+<onlink></onlink>
+<lworkcit></lworkcit>
+</citeinfo>
+</lworkcit>
+<smcisrct>
+<timeinfo>
+<sngdate>
+<caldate>2000</caldate>
+<time></time>
+</sngdate>
+</timeinfo>
+</smcisrct>
+<smcisrcc>publication date</smcisrcc>
+</citeinfo>
+</srccite>
+<srcscale></srcscale>
+<typesrc></typesrc>
+<srctime>
+<timeinfo>
+<sngdate>
+<caldate>2000</caldate>
+<time></time>
+</sngdate>
+</timeinfo>
+<srccurr>publication date</srccurr>
+</srctime>
+<srccitea></srccitea>
+<srccontr>Provided year 2000 place names.</srccontr>
+</srcinfo>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>International Bank for Reconstruction and Development/The World Bank</origin>
+<pubdate></pubdate>
+<pubtime></pubtime>
+<title>World Development Indicators</title>
+<edition></edition>
+<geoform></geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace></pubplace>
+<publish></publish>
+</pubinfo>
+<othercit></othercit>
+<onlink>http://www.worldbank.org/data/wdi2000</onlink>
+<smcilnkh>true</smcilnkh>
+<lworkcit>
+<citeinfo>
+<origin></origin>
+<pubdate></pubdate>
+<pubtime></pubtime>
+<title></title>
+<edition></edition>
+<geoform></geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace></pubplace>
+<publish></publish>
+</pubinfo>
+<othercit></othercit>
+<onlink></onlink>
+<lworkcit></lworkcit>
+</citeinfo>
+</lworkcit>
+<smcisrct>
+<timeinfo>
+<sngdate>
+<caldate>2000</caldate>
+<time></time>
+</sngdate>
+</timeinfo>
+</smcisrct>
+<smcisrcc>publication date</smcisrcc>
+</citeinfo>
+</srccite>
+<srcscale></srcscale>
+<typesrc></typesrc>
+<srctime>
+<timeinfo>
+<sngdate>
+<caldate>2000</caldate>
+<time></time>
+</sngdate>
+</timeinfo>
+<srccurr>publication date</srccurr>
+</srctime>
+<srccitea></srccitea>
+<srccontr>Provided national estimates of Gross Domestic Product (GDP).</srccontr>
+</srcinfo>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>National Geospatial-Intelligence Agency</origin>
+<pubdate>1997</pubdate>
+<pubtime></pubtime>
+<title>Vector Map Level 0 [VMAP(0)]/Digital Chart of the World</title>
+<edition>Version 3</edition>
+<geoform>model</geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace>Bethesda, MD</pubplace>
+<publish>National Geospatial-Intelligence Agency</publish>
+</pubinfo>
+<othercit>Formerly the National Imagery and Mapping Agency (NIMA).</othercit>
+<onlink>http://www.nga.mil</onlink>
+<smcilnkh>true</smcilnkh>
+<lworkcit>
+<citeinfo>
+<origin></origin>
+<pubdate></pubdate>
+<pubtime></pubtime>
+<title></title>
+<edition></edition>
+<geoform></geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace></pubplace>
+<publish></publish>
+</pubinfo>
+<othercit></othercit>
+<onlink></onlink>
+<lworkcit></lworkcit>
+</citeinfo>
+</lworkcit>
+<smcisrcc>publication date</smcisrcc>
+</citeinfo>
+</srccite>
+<srcscale></srcscale>
+<typesrc></typesrc>
+<srctime>
+<timeinfo>
+<sngdate>
+<caldate></caldate>
+<time></time>
+</sngdate>
+</timeinfo>
+<srccurr>publication date</srccurr>
+</srctime>
+<srccitea></srccitea>
+<srccontr>Global source for major roads and railroads.</srccontr>
+</srcinfo>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>Office of U.S. Foreign Disaster Assistance (OFDA); Centre for Research on the Epidemiology of Disasters (CRED)</origin>
+<pubdate></pubdate>
+<pubtime></pubtime>
+<title>EM-DAT: The OFDA/CRED International Disaster Database</title>
+<edition></edition>
+<geoform></geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace>Brussels, Belgium</pubplace>
+<publish>Université Catholique de Louvain</publish>
+</pubinfo>
+<othercit></othercit>
+<onlink>www.em-dat.net</onlink>
+<smcilnkh>true</smcilnkh>
+<lworkcit>
+<citeinfo>
+<origin></origin>
+<pubdate></pubdate>
+<pubtime></pubtime>
+<title></title>
+<edition></edition>
+<geoform></geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace></pubplace>
+<publish></publish>
+</pubinfo>
+<othercit></othercit>
+<onlink></onlink>
+<lworkcit></lworkcit>
+</citeinfo>
+</lworkcit>
+<smcisrct>
+<timeinfo>
+<rngdates>
+<begdate>1981</begdate>
+<begtime></begtime>
+<enddate>2000</enddate>
+<endtime></endtime>
+</rngdates>
+</timeinfo>
+</smcisrct>
+<smcisrcc>publication date</smcisrcc>
+</citeinfo>
+</srccite>
+<srcscale></srcscale>
+<typesrc></typesrc>
+<srctime>
+<timeinfo>
+<rngdates>
+<begdate>1981</begdate>
+<begtime></begtime>
+<enddate>2000</enddate>
+<endtime></endtime>
+</rngdates>
+</timeinfo>
+<srccurr>publication date</srccurr>
+</srctime>
+<srccitea></srccitea>
+<srccontr>Provided historical, hazard-specific mortality and economic loss rates.</srccontr>
+</srcinfo>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>Sachs, J., J. McArthur, A. Mellinger, and P. Yared</origin>
+<pubdate>2003</pubdate>
+<pubtime></pubtime>
+<title>Subnational GDP Variation in a Cross-Section of Countries</title>
+<edition></edition>
+<geoform></geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace></pubplace>
+<publish></publish>
+</pubinfo>
+<othercit></othercit>
+<onlink></onlink>
+<smcilnkh>false</smcilnkh>
+<lworkcit>
+<citeinfo>
+<origin></origin>
+<pubdate></pubdate>
+<pubtime></pubtime>
+<title></title>
+<edition></edition>
+<geoform></geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace></pubplace>
+<publish></publish>
+</pubinfo>
+<othercit></othercit>
+<onlink></onlink>
+<lworkcit></lworkcit>
+</citeinfo>
+</lworkcit>
+<smcisrcc>publication date</smcisrcc>
+</citeinfo>
+</srccite>
+<srcscale></srcscale>
+<typesrc></typesrc>
+<srctime>
+<timeinfo>
+<sngdate>
+<caldate></caldate>
+<time></time>
+</sngdate>
+</timeinfo>
+<srccurr>publication date</srccurr>
+</srctime>
+<srccitea></srccitea>
+<srccontr>Provided methodology for spatially reallocating national estimates of Gross Domestic Product (GDP) subnationally.</srccontr>
+</srcinfo>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>U.S. Geological Survey (USGS) National Center for Earth Resources Observation and Science (EROS)</origin>
+<pubdate></pubdate>
+<pubtime></pubtime>
+<title>Global Land cover Characterization</title>
+<edition>Version 2.0</edition>
+<geoform>raster digital data</geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace>Sioux Falls, SD</pubplace>
+<publish>USGS EROS</publish>
+</pubinfo>
+<othercit></othercit>
+<onlink>http://edcdaac.usgs.gov/glcc/glcc.asp</onlink>
+<smcilnkh>true</smcilnkh>
+<lworkcit>
+<citeinfo>
+<origin></origin>
+<pubdate></pubdate>
+<pubtime></pubtime>
+<title></title>
+<edition></edition>
+<geoform></geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace></pubplace>
+<publish></publish>
+</pubinfo>
+<othercit></othercit>
+<onlink></onlink>
+<lworkcit></lworkcit>
+</citeinfo>
+</lworkcit>
+</citeinfo>
+</srccite>
+<srcscale></srcscale>
+<typesrc></typesrc>
+<srctime>
+<timeinfo>
+<sngdate>
+<caldate></caldate>
+<time></time>
+</sngdate>
+</timeinfo>
+<srccurr></srccurr>
+</srctime>
+<srccitea></srccitea>
+<srccontr>Provided global land cover data.</srccontr>
+</srcinfo>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>Center for International Earth Science Information Network (CIESIN), Columbia Univeristy; International Food Policy Research Institute (IFPRI); World Resources Institute (WRI)</origin>
+<pubdate>2000</pubdate>
+<pubtime></pubtime>
+<title>Gridded Population of the World, Version 2 (GPWv2), Ancillary Data</title>
+<edition>Version 2.0</edition>
+<geoform>vector digital data</geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace>Palisades, NY</pubplace>
+<publish>Socioeconomic Data and Applications Center (SEDAC), Columbia University</publish>
+</pubinfo>
+<othercit></othercit>
+<onlink>https://sedac.ciesin.columbia.edu/gpw-v2/</onlink>
+<smcilnkh>true</smcilnkh>
+<lworkcit>
+<citeinfo>
+<origin></origin>
+<pubdate></pubdate>
+<pubtime></pubtime>
+<title></title>
+<edition></edition>
+<geoform></geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace></pubplace>
+<publish></publish>
+</pubinfo>
+<othercit></othercit>
+<onlink></onlink>
+<lworkcit></lworkcit>
+</citeinfo>
+</lworkcit>
+<smcisrcc>publication date</smcisrcc>
+</citeinfo>
+</srccite>
+<srcscale></srcscale>
+<typesrc></typesrc>
+<srctime>
+<timeinfo>
+<sngdate>
+<caldate></caldate>
+<time></time>
+</sngdate>
+</timeinfo>
+<srccurr>publication date</srccurr>
+</srctime>
+<srccitea></srccitea>
+<srccontr>Provided year 2000 country boundaries.</srccontr>
+</srcinfo>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>Center for International Earth Science Information Network - CIESIN - Columbia University, United Nations Food and Agriculture Programme - FAO, and Centro Internacional de Agricultura Tropical - CIAT</origin>
+<pubdate>20051231</pubdate>
+<pubtime></pubtime>
+<title>Gridded Population of the World, Version 3 (GPWv3): Population Count Grid</title>
+<edition>3.00</edition>
+<geoform>raster, map service</geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace>Palisades, NY</pubplace>
+<publish>NASA Socioeconomic Data and Applications Center (SEDAC)</publish>
+</pubinfo>
+<othercit></othercit>
+<onlink>https://doi.org/10.7927/H4639MPP</onlink>
+<smcilnkh>true</smcilnkh>
+<lworkcit>
+<citeinfo>
+<origin></origin>
+<pubdate></pubdate>
+<pubtime></pubtime>
+<title></title>
+<edition></edition>
+<geoform></geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace></pubplace>
+<publish></publish>
+</pubinfo>
+<othercit></othercit>
+<onlink></onlink>
+<lworkcit></lworkcit>
+</citeinfo>
+</lworkcit>
+</citeinfo>
+</srccite>
+<srcscale></srcscale>
+<typesrc></typesrc>
+<srctime>
+<timeinfo>
+<sngdate>
+<caldate></caldate>
+<time></time>
+</sngdate>
+</timeinfo>
+<srccurr></srccurr>
+</srctime>
+<srccitea></srccitea>
+<srccontr>Provided year 2000 gridded population estimates.</srccontr>
+</srcinfo>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>Center for Hazards and Risk Research (CHRR), Columbia University; Center for International Earth Science Information Network (CIESIN), Columbia University; International Bank for Reconstruction and Development/The World Bank</origin>
+<pubdate>2005</pubdate>
+<pubtime></pubtime>
+<title>Global Drought Hazard Mortality Risks and Distribution</title>
+<edition>Version 1.0</edition>
+<geoform>raster digital data</geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace>Palisades, NY</pubplace>
+<publish>CHRR, Columbia University</publish>
+</pubinfo>
+<othercit></othercit>
+<onlink>http://www.ldeo.columbia.edu/chrr/research/hotspots</onlink>
+<smcilnkh>true</smcilnkh>
+<lworkcit>
+<citeinfo>
+<origin></origin>
+<pubdate></pubdate>
+<pubtime></pubtime>
+<title></title>
+<edition></edition>
+<geoform></geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace></pubplace>
+<publish></publish>
+</pubinfo>
+<othercit></othercit>
+<onlink></onlink>
+<lworkcit></lworkcit>
+</citeinfo>
+</lworkcit>
+<smcisrct>
+<timeinfo>
+<sngdate>
+<caldate>2000</caldate>
+<time></time>
+</sngdate>
+</timeinfo>
+</smcisrct>
+<smcisrcc>publication date</smcisrcc>
+</citeinfo>
+</srccite>
+<srcscale></srcscale>
+<typesrc></typesrc>
+<srctime>
+<timeinfo>
+<sngdate>
+<caldate>2000</caldate>
+<time></time>
+</sngdate>
+</timeinfo>
+<srccurr>publication date</srccurr>
+</srctime>
+<srccitea></srccitea>
+<srccontr>Provided global source of drought hazard mortality risks and distribution.</srccontr>
+</srcinfo>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>Center for Hazards and Risks Research (CHRR), Columbia University; Center for International Earth Science Information Network (CIESIN), Columbia University; International Bank for Reconstruction and Development/The World Bank</origin>
+<pubdate>2005</pubdate>
+<pubtime></pubtime>
+<title>Global Earthquake Hazard Mortality Risks and Distribution</title>
+<edition>Version 1.0</edition>
+<geoform>raster digital data</geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace>Palisades, NY</pubplace>
+<publish>CHRR, Columbia University</publish>
+</pubinfo>
+<othercit></othercit>
+<onlink>http://www.ldeo.columbia.edu/chrr/research/hotspots</onlink>
+<smcilnkh>true</smcilnkh>
+<lworkcit>
+<citeinfo>
+<origin></origin>
+<pubdate></pubdate>
+<pubtime></pubtime>
+<title></title>
+<edition></edition>
+<geoform></geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace></pubplace>
+<publish></publish>
+</pubinfo>
+<othercit></othercit>
+<onlink></onlink>
+<lworkcit></lworkcit>
+</citeinfo>
+</lworkcit>
+<smcisrct>
+<timeinfo>
+<sngdate>
+<caldate>2000</caldate>
+<time></time>
+</sngdate>
+</timeinfo>
+</smcisrct>
+<smcisrcc>publication date</smcisrcc>
+</citeinfo>
+</srccite>
+<srcscale></srcscale>
+<typesrc></typesrc>
+<srctime>
+<timeinfo>
+<sngdate>
+<caldate>2000</caldate>
+<time></time>
+</sngdate>
+</timeinfo>
+<srccurr>publication date</srccurr>
+</srctime>
+<srccitea></srccitea>
+<srccontr>Provided global source of earthquake hazard mortality risks and distribution.</srccontr>
+</srcinfo>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>Center for Hazards and Risk Research (CHRR), Columbia University; Center for International Earth Science Information Network (CIESIN), Columbia University; International Bank for Reconstruction and Development/The World Bank</origin>
+<pubdate>2005</pubdate>
+<pubtime></pubtime>
+<title>Global Flood Hazard Mortality Risks and Distribution</title>
+<edition>Version 1.0</edition>
+<geoform>raster digital data</geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace>Palisades, NY</pubplace>
+<publish>CHRR, Columbia University</publish>
+</pubinfo>
+<othercit></othercit>
+<onlink>http://www.ldeo.columbia.edu/chrr/research/hotspots</onlink>
+<smcilnkh>true</smcilnkh>
+<lworkcit>
+<citeinfo>
+<origin></origin>
+<pubdate></pubdate>
+<pubtime></pubtime>
+<title></title>
+<edition></edition>
+<geoform></geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace></pubplace>
+<publish></publish>
+</pubinfo>
+<othercit></othercit>
+<onlink></onlink>
+<lworkcit></lworkcit>
+</citeinfo>
+</lworkcit>
+<smcisrct>
+<timeinfo>
+<sngdate>
+<caldate>2000</caldate>
+<time></time>
+</sngdate>
+</timeinfo>
+</smcisrct>
+<smcisrcc>publication date</smcisrcc>
+</citeinfo>
+</srccite>
+<srcscale></srcscale>
+<typesrc></typesrc>
+<srctime>
+<timeinfo>
+<sngdate>
+<caldate>2000</caldate>
+<time></time>
+</sngdate>
+</timeinfo>
+<srccurr>publication date</srccurr>
+</srctime>
+<srccitea></srccitea>
+<srccontr>Provided global source of flood hazard mortality risks and distribution.</srccontr>
+</srcinfo>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>Center for Hazards and Risk Research - CHRR - Columbia University, Center for International Earth Science Information Network - CIESIN - Columbia University, and International Bank for Reconstruction and Development - The World Bank</origin>
+<pubdate>20051231</pubdate>
+<pubtime></pubtime>
+<title>Global Volcano Mortality Risks and Distribution</title>
+<edition>1.00</edition>
+<geoform>raster, map, map service</geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace>Palisades, NY</pubplace>
+<publish>Center for Hazards and Risk Research (CHRR)/Columbia University</publish>
+</pubinfo>
+<othercit></othercit>
+<onlink>https://doi.org/10.7927/H4736NT2</onlink>
+<smcilnkh>true</smcilnkh>
+<lworkcit>
+<citeinfo>
+<origin>Dilley, M., R.S. Chen, U. Deichmann, A.L. Lerner-Lam, M. Arnold, J. Agwe, P. Buys, O. Kjekstad, B. Lyon, and G. Yetman</origin>
+<pubdate>20050430</pubdate>
+<pubtime></pubtime>
+<title>Natural Disaster Hotspots: A Global Risk Analysis</title>
+<edition></edition>
+<geoform>report</geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace>Washington, D.C.</pubplace>
+<publish>World Bank</publish>
+</pubinfo>
+<othercit></othercit>
+<onlink>https://doi.org/10.1596/0-8213-5930-4</onlink>
+<smcilnkh>true</smcilnkh>
+<lworkcit>
+<citeinfo>
+<origin></origin>
+<pubdate></pubdate>
+<pubtime></pubtime>
+<title></title>
+<edition></edition>
+<geoform></geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace></pubplace>
+<publish></publish>
+</pubinfo>
+<othercit></othercit>
+<onlink></onlink>
+<lworkcit></lworkcit>
+</citeinfo>
+</lworkcit>
+</citeinfo>
+</lworkcit>
+</citeinfo>
+</srccite>
+<srcscale></srcscale>
+<typesrc></typesrc>
+<srctime>
+<timeinfo>
+<sngdate>
+<caldate></caldate>
+<time></time>
+</sngdate>
+</timeinfo>
+<srccurr></srccurr>
+</srctime>
+<srccitea></srccitea>
+<srccontr></srccontr>
+</srcinfo>
+<procstep>
+<procdesc>The first step in creating a multihazard surface is to isolate those areas that are the most at-risk for mortality (deciles 8-10) for each of the hazards considered in the study (cyclones, droughts, earthquakes, floods, landslides, and volcanoes). Three categorical hazard surfaces representing the highest mortality risks are created from combinations of the single hazard surfaces. The hazard categories are as follows: Drought - drought; Seismic - earthquakes and volcanoes; Hydro - cyclones, floods, and landslides.
+
+Each of the hazard category surfaces are binary. To produce the multihazard suface, each of the categorical surfaces are combined into a single surface. Each grid cell of the multihazard surface is attributed with information regarding its value in each of the hazard categories (items Drought3, Seismic3, and Hydro3). This sequence of values forms a unique class of multihazardness.
+
+The population per grid cell is based on GPW v3.0 (beta). The area per grid cell, in square kilometers, is calculated by subtracting from the area of the grid cell those portions that are permenantly inundated. Identification of permanently inundated areas utilizes VMAP(0) data. VMAP(0) data is also used to identify major roads and railroads.
+
+Building upon a methodology proposed by Sachs et al. (2003), a gross domestic product (GDP) value (US$, 2000, purchase power parity adjusted (PPP)) is estimated on a per grid cell basis. First, the contribution of subnational units to national GDP utilized data of varied origin. The ratio of the subnational production to the national GDP is the contribution rate. To standardize across countries, these contribution rates are applied to published World Bank GDP estimates to determine GDP values of the subnational units.
+
+The standardized, subnational GDP estimate is divided by the total population within the subnational unit to produce a spatially variable per capita GDP estimate. The GDP per grid cell is calculated by multiplying the subnational, per capita GDP estimate by the grid cell population density.
+
+Agricultural GDP (US$, 2000, PPP) is also based on a process of spatial reallocation. At the level of the subnational unit, estimates are made of the agricultural GDP and of the total agricultural area within the subnational unit. Agricultural area is identified using a reinterpretation of USGS Global Land Cover Characterization data. Dividing the estimate of agricultural GDP at the subnational level by the total amount of agricultural land within the subnational unit produces a value of agricultural GDP per unit agricultural area. The agricultural value of a grid cell is determined by multiplying the agricultural area within the grid cell by the agricultural GDP per unit agricultural area value.</procdesc>
+<srcused></srcused>
+<procdate></procdate>
+<proctime></proctime>
+<srcprod></srcprod>
+<proccont>
+<cntinfo>
+<cntperp>
+<cntper></cntper>
+<cntorg></cntorg>
+</cntperp>
+<cntpos></cntpos>
+<cntaddr>
+<addrtype></addrtype>
+<address></address>
+<city></city>
+<state></state>
+<postal></postal>
+<country></country>
+</cntaddr>
+<cntvoice></cntvoice>
+<cnttdd></cnttdd>
+<cntfax></cntfax>
+<cntemail></cntemail>
+<hours></hours>
+<cntinst></cntinst>
+</cntinfo>
+</proccont>
+</procstep>
+</lineage>
+<cloud></cloud>
+</dataqual>
+<spdoinfo>
+<indspref></indspref>
+<direct>Raster</direct>
+<rastinfo>
+<rasttype>Grid Cell</rasttype>
+<rowcount>3430</rowcount>
+<colcount>8633</colcount>
+<vrtcount>1</vrtcount>
+</rastinfo>
+<smcaptur>false</smcaptur>
+</spdoinfo>
+<spref>
+<horizsys>
+<geograph>
+<latres>0.041700</latres>
+<longres>0.041700</longres>
+<geogunit>Decimal degrees</geogunit>
+</geograph>
+<geodetic>
+<horizdn>WGS84</horizdn>
+<ellips>WGS84</ellips>
+<semiaxis>6378137.000000</semiaxis>
+<denflat>298.257224</denflat>
+</geodetic>
+</horizsys>
+<vertdef>
+<altsys>
+<altdatum></altdatum>
+<altres></altres>
+<altunits></altunits>
+<altenc></altenc>
+</altsys>
+<depthsys>
+<depthdn></depthdn>
+<depthres></depthres>
+<depthdu></depthdu>
+<depthem></depthem>
+</depthsys>
+</vertdef>
+</spref>
+<eainfo>
+<detailed>
+<enttyp>
+<enttypl>gdmhzmrt</enttypl>
+<enttypd></enttypd>
+<enttypds></enttypds>
+</enttyp>
+<attr>
+<attrlabl>Agvalue</attrlabl>
+<attrdef>Sum the agricultural value (US$, 2000, purchase power parity adjusted) within grid cells of a specific hazard category combination. Agvalue is based upon the allocation of available national estimates of agricultural GDP to grid cells dependent upon the amount of agricultural land within grid cells. Agricultural lands are identified using a reinterpretation of USGS Global Land Cover Characterization data. Agvalue is representative of the category combination.</attrdef>
+<attrdefs>CIESIN</attrdefs>
+<attrdomv>
+<edom>
+<edomv></edomv>
+<edomvd></edomvd>
+<edomvds></edomvds>
+</edom>
+</attrdomv>
+<begdatea></begdatea>
+<enddatea></enddatea>
+<attrvai>
+<attrva></attrva>
+<attrvae></attrvae>
+</attrvai>
+<attrmfrq></attrmfrq>
+<smcaptur>false</smcaptur>
+</attr>
+<attr>
+<attrlabl>Areakm</attrlabl>
+<attrdef>Total land area within grid cellss of a specific hazard category combination after subtracting permenantly inundated areas. Permenantly inundated areas were identified using VMAP(0) data. Applicable to the category combination class as a whole.</attrdef>
+<attrdefs>CIESIN</attrdefs>
+<attrdomv>
+<edom>
+<edomv></edomv>
+<edomvd></edomvd>
+<edomvds></edomvds>
+</edom>
+</attrdomv>
+<begdatea></begdatea>
+<enddatea></enddatea>
+<attrvai>
+<attrva></attrva>
+<attrvae></attrvae>
+</attrvai>
+<attrmfrq></attrmfrq>
+<smcaptur>false</smcaptur>
+</attr>
+<attr>
+<attrlabl>Count</attrlabl>
+<attrdef>Number of grid cells have the same Value attribution.</attrdef>
+<attrdefs>CIESIN</attrdefs>
+<attrdomv>
+<edom>
+<edomv></edomv>
+<edomvd></edomvd>
+<edomvds></edomvds>
+</edom>
+</attrdomv>
+<begdatea></begdatea>
+<enddatea></enddatea>
+<attrvai>
+<attrva></attrva>
+<attrvae></attrvae>
+</attrvai>
+<attrmfrq></attrmfrq>
+<smcaptur>false</smcaptur>
+</attr>
+<attr>
+<attrlabl>Drought3</attrlabl>
+<attrdef>Binary variable (1 is true) signifying whether the grid cell is in the three highest deciles (8-10) of drought-based mortality risks.</attrdef>
+<attrdefs>CIESIN</attrdefs>
+<attrdomv>
+<edom>
+<edomv></edomv>
+<edomvd></edomvd>
+<edomvds></edomvds>
+</edom>
+</attrdomv>
+<begdatea></begdatea>
+<enddatea></enddatea>
+<attrvai>
+<attrva></attrva>
+<attrvae></attrvae>
+</attrvai>
+<attrmfrq></attrmfrq>
+<smcaptur>false</smcaptur>
+</attr>
+<attr>
+<attrlabl>Gdpvalue</attrlabl>
+<attrdef>Sum of purchase power parity adjusted (PPP) GDP (US$, 2000) within the specific hazards category combination. This estimate represents production not affected by any type of hazard.</attrdef>
+<attrdefs>CIESIN</attrdefs>
+<attrdomv>
+<edom>
+<edomv></edomv>
+<edomvd></edomvd>
+<edomvds></edomvds>
+</edom>
+</attrdomv>
+<begdatea></begdatea>
+<enddatea></enddatea>
+<attrvai>
+<attrva></attrva>
+<attrvae></attrvae>
+</attrvai>
+<attrmfrq></attrmfrq>
+<smcaptur>false</smcaptur>
+</attr>
+<attr>
+<attrlabl>Hydro3</attrlabl>
+<attrdef>Binary variable (1 is true) signifying whether the grid cell is in any of the highest deciles (8-10) of cyclone, flood, or landslide-based mortality risks.</attrdef>
+<attrdefs>CIESIN</attrdefs>
+<attrdomv>
+<edom>
+<edomv></edomv>
+<edomvd></edomvd>
+<edomvds></edomvds>
+</edom>
+</attrdomv>
+<begdatea></begdatea>
+<enddatea></enddatea>
+<attrvai>
+<attrva></attrva>
+<attrvae></attrvae>
+</attrvai>
+<attrmfrq></attrmfrq>
+<smcaptur>false</smcaptur>
+</attr>
+<attr>
+<attrlabl>ObjectID</attrlabl>
+<attrdef>Internal feature number.</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+<udom>Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+<begdatea></begdatea>
+<enddatea></enddatea>
+<attrvai>
+<attrva></attrva>
+<attrvae></attrvae>
+</attrvai>
+<attrmfrq></attrmfrq>
+<smcaptur>false</smcaptur>
+</attr>
+<attr>
+<attrlabl>Pop</attrlabl>
+<attrdef>Sum of year 2000 population per hazard category combination (the 3-digit sequence of Drought3, Seismic3, and Hydro3) as determined using Gridded Population of the World, Version 3 (GPWv3) data. It is not the population of an individual grid cell and is intended to serve as a comparative measure between category combination classes.</attrdef>
+<attrdefs>CIESIN</attrdefs>
+<attrdomv>
+<edom>
+<edomv></edomv>
+<edomvd></edomvd>
+<edomvds></edomvds>
+</edom>
+</attrdomv>
+<begdatea></begdatea>
+<enddatea></enddatea>
+<attrvai>
+<attrva></attrva>
+<attrvae></attrvae>
+</attrvai>
+<attrmfrq></attrmfrq>
+<smcaptur>false</smcaptur>
+</attr>
+<attr>
+<attrlabl>Seismic3</attrlabl>
+<attrdef>Binary variable (1 is true) signifying whether the grid cell is in the three highest deciles (8-10) of either volcano and/or earthquake based mortality risks.</attrdef>
+<attrdefs>CIESIN</attrdefs>
+<attrdomv>
+<edom>
+<edomv></edomv>
+<edomvd></edomvd>
+<edomvds></edomvds>
+</edom>
+</attrdomv>
+<begdatea></begdatea>
+<enddatea></enddatea>
+<attrvai>
+<attrva></attrva>
+<attrvae></attrvae>
+</attrvai>
+<attrmfrq></attrmfrq>
+<smcaptur>false</smcaptur>
+</attr>
+<attr>
+<attrlabl>Transkm</attrlabl>
+<attrdef>Total length of major roads and railroads within grid cells of a specific hazard category combination. Roads and railroads were identified using VMAP(0) data.</attrdef>
+<attrdefs>CIESIN</attrdefs>
+<attrdomv>
+<edom>
+<edomv></edomv>
+<edomvd></edomvd>
+<edomvds></edomvds>
+</edom>
+</attrdomv>
+<begdatea></begdatea>
+<enddatea></enddatea>
+<attrvai>
+<attrva></attrva>
+<attrvae></attrvae>
+</attrvai>
+<attrmfrq></attrmfrq>
+<smcaptur>false</smcaptur>
+</attr>
+<attr>
+<attrlabl>Value</attrlabl>
+<attrdef>A numeric identifier of the unique 3-digit sequence of the three hazard attributes (items Drought3, Seismic3, and Hydro3).</attrdef>
+<attrdefs>CIESIN</attrdefs>
+<attrdomv>
+<edom>
+<edomv></edomv>
+<edomvd></edomvd>
+<edomvds></edomvds>
+</edom>
+</attrdomv>
+<begdatea></begdatea>
+<enddatea></enddatea>
+<attrvai>
+<attrva></attrva>
+<attrvae></attrvae>
+</attrvai>
+<attrmfrq></attrmfrq>
+<smcaptur>false</smcaptur>
+</attr>
+</detailed>
+<overview>
+<eaover></eaover>
+<eadetcit></eadetcit>
+</overview>
+</eainfo>
+<distinfo>
+<smdistnm>Global Multihazard Mortality Risks and Distribution DIST1</smdistnm>
+<distrib>
+<cntinfo>
+<cntorgp>
+<cntorg>NASA Socioeconomic Data and Applications Center (SEDAC)</cntorg>
+<cntper></cntper>
+</cntorgp>
+<cntpos></cntpos>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>CIESIN, Columbia University, 61 Route 9W, P.O. Box 1000</address>
+<city>Palisades</city>
+<state>New York</state>
+<postal>10964</postal>
+<country>United States</country>
+</cntaddr>
+<cntvoice>+1 845-365-8920</cntvoice>
+<cnttdd></cnttdd>
+<cntfax>+1 845-365-8922</cntfax>
+<cntemail>ciesin.info@ciesin.columbia.edu</cntemail>
+<smcoemhy>true</smcoemhy>
+<hours></hours>
+<cntinst></cntinst>
+</cntinfo>
+</distrib>
+<resdesc>CIESIN_CHRR_NDH_MULTI_MRD</resdesc>
+<distliab>CIESIN follows procedures designed to ensure that data disseminated by CIESIN are of reasonable quality. If, despite these procedures, users encounter apparent errors or misstatements in the data, they should contact SEDAC User Services at +1 845-365-8920 or via email at ciesin.info@ciesin.columbia.edu. Neither CIESIN nor NASA verifies or guarantees the accuracy, reliability, or completeness of any data provided. CIESIN provides this data without warranty of any kind whatsoever, either expressed or implied. CIESIN shall not be liable for incidental, consequential, or special damages arising out of the use of any data provided by CIESIN.</distliab>
+<stdorder>
+<digform>
+<digtinfo>
+<formname></formname>
+<formvern></formvern>
+<formspec></formspec>
+<asciistr>
+<recdel></recdel>
+<numheadl></numheadl>
+<deschead></deschead>
+<orienta></orienta>
+<casesens>false</casesens>
+<authent></authent>
+<quotech></quotech>
+<datafiel>
+<dfieldnm></dfieldnm>
+<missingv></missingv>
+<dfwidth></dfwidth>
+</datafiel>
+</asciistr>
+<formcont></formcont>
+<filedec></filedec>
+<transize></transize>
+</digtinfo>
+<digtopt>
+<onlinopt>
+<computer>
+<networka>
+<networkr></networkr>
+</networka>
+</computer>
+<accinstr></accinstr>
+<oncomp></oncomp>
+</onlinopt>
+</digtopt>
+</digform>
+<fees>0</fees>
+<ordering>The data in American Standard Code for Information Interchange (.asc), and dBASE Database File (.dbf) formats; the maps in Portable Document Format (.pdf), and Portable Network Graphics (.png) formats; and the web map services are available from the NASA Socioeconomic Data and Applications Center (SEDAC).</ordering>
+<turnarnd></turnarnd>
+<smdistty>1</smdistty>
+</stdorder>
+<stdorder>
+<digform>
+<digtinfo>
+<formname>ASCII</formname>
+<formvern></formvern>
+<formspec></formspec>
+<asciistr>
+<recdel></recdel>
+<numheadl></numheadl>
+<deschead></deschead>
+<orienta></orienta>
+<casesens>false</casesens>
+<authent></authent>
+<quotech></quotech>
+<datafiel>
+<dfieldnm></dfieldnm>
+<missingv></missingv>
+<dfwidth></dfwidth>
+</datafiel>
+</asciistr>
+<formcont></formcont>
+<filedec>Unzip</filedec>
+<transize></transize>
+</digtinfo>
+<digtopt>
+<onlinopt>
+<computer>
+<networka>
+<networkr>https://sedac.ciesin.columbia.edu/data/set/ndh-multihazard-mortality-risks-distribution/data-download</networkr>
+<smhyperl>-1</smhyperl>
+</networka>
+</computer>
+<computer>
+<networka>
+<networkr></networkr>
+</networka>
+</computer>
+<accinstr>Data accessible via the data set landing page.</accinstr>
+<oncomp></oncomp>
+</onlinopt>
+<smdistty>1</smdistty>
+</digtopt>
+</digform>
+<digform>
+<digtinfo>
+<formname>DBF</formname>
+<formvern></formvern>
+<formspec></formspec>
+<asciistr>
+<recdel></recdel>
+<numheadl></numheadl>
+<deschead></deschead>
+<orienta></orienta>
+<casesens>false</casesens>
+<authent></authent>
+<quotech></quotech>
+<datafiel>
+<dfieldnm></dfieldnm>
+<missingv></missingv>
+<dfwidth></dfwidth>
+</datafiel>
+</asciistr>
+<formcont></formcont>
+<filedec>Unzip</filedec>
+<transize></transize>
+</digtinfo>
+<digtopt>
+<onlinopt>
+<computer>
+<networka>
+<networkr></networkr>
+</networka>
+</computer>
+<computer>
+<networka>
+<networkr>https://sedac.ciesin.columbia.edu/data/set/ndh-multihazard-mortality-risks-distribution/data-download</networkr>
+<smhyperl>-1</smhyperl>
+</networka>
+</computer>
+<accinstr>Data accessible via the data set landing page.</accinstr>
+<oncomp></oncomp>
+</onlinopt>
+<smdistty>1</smdistty>
+</digtopt>
+</digform>
+<digform>
+<digtinfo>
+<formname>PDF</formname>
+<formvern></formvern>
+<formspec></formspec>
+<asciistr>
+<recdel></recdel>
+<numheadl></numheadl>
+<deschead></deschead>
+<orienta></orienta>
+<casesens>false</casesens>
+<authent></authent>
+<quotech></quotech>
+<datafiel>
+<dfieldnm></dfieldnm>
+<missingv></missingv>
+<dfwidth></dfwidth>
+</datafiel>
+</asciistr>
+<formcont></formcont>
+<filedec></filedec>
+<transize></transize>
+</digtinfo>
+<digtopt>
+<onlinopt>
+<computer>
+<networka>
+<networkr>https://sedac.ciesin.columbia.edu/data/set/ndh-multihazard-mortality-risks-distribution/maps</networkr>
+<smhyperl>-1</smhyperl>
+</networka>
+</computer>
+<accinstr>Maps accessible via the data set landing page.</accinstr>
+<oncomp></oncomp>
+</onlinopt>
+<smdistty>1</smdistty>
+</digtopt>
+</digform>
+<digform>
+<digtinfo>
+<formname>PNG</formname>
+<formvern></formvern>
+<formspec></formspec>
+<asciistr>
+<recdel></recdel>
+<numheadl></numheadl>
+<deschead></deschead>
+<orienta></orienta>
+<casesens>false</casesens>
+<authent></authent>
+<quotech></quotech>
+<datafiel>
+<dfieldnm></dfieldnm>
+<missingv></missingv>
+<dfwidth></dfwidth>
+</datafiel>
+</asciistr>
+<formcont></formcont>
+<filedec></filedec>
+<transize></transize>
+</digtinfo>
+<digtopt>
+<onlinopt>
+<computer>
+<networka>
+<networkr>https://sedac.ciesin.columbia.edu/data/set/ndh-multihazard-mortality-risks-distribution/maps</networkr>
+<smhyperl>-1</smhyperl>
+</networka>
+</computer>
+<accinstr>Maps accessible via the data set landing page.</accinstr>
+<oncomp></oncomp>
+</onlinopt>
+<smdistty>1</smdistty>
+</digtopt>
+</digform>
+<fees></fees>
+<ordering></ordering>
+<turnarnd></turnarnd>
+<smdistty>1</smdistty>
+</stdorder>
+<custom></custom>
+<techpreq></techpreq>
+<availabl>
+<timeinfo>
+<rngdates>
+<begdate>20051231</begdate>
+<begtime></begtime>
+<enddate>Present</enddate>
+<endtime></endtime>
+</rngdates>
+</timeinfo>
+</availabl>
+</distinfo>
+<metainfo>
+<metd>20051011</metd>
+<metrd>20220413</metrd>
+<metfrd></metfrd>
+<metc>
+<cntinfo>
+<cntorgp>
+<cntorg>Center for International Earth Science Information Network (CIESIN) Metadata Administration</cntorg>
+<cntper></cntper>
+</cntorgp>
+<cntpos></cntpos>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>CIESIN, Columbia University, 61 Route 9W, P.O. Box 1000</address>
+<city>Palisades</city>
+<state>New York</state>
+<postal>10964</postal>
+<country>United States</country>
+</cntaddr>
+<cntvoice>+1 845-365-8988</cntvoice>
+<cnttdd></cnttdd>
+<cntfax>+1 845-365-8922</cntfax>
+<cntemail>metadata@ciesin.columbia.edu</cntemail>
+<smcoemhy>true</smcoemhy>
+<hours></hours>
+<cntinst></cntinst>
+</cntinfo>
+</metc>
+<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+<metstdv>FGDC-STD-001-1998</metstdv>
+<mettc>local time</mettc>
+<metac></metac>
+<metuc></metuc>
+<metsi>
+<metscs></metscs>
+<metsc></metsc>
+<metshd></metshd>
+</metsi>
+<metextns>
+<onlink></onlink>
+<metprof></metprof>
+</metextns>
+</metainfo>
+</metadata>
